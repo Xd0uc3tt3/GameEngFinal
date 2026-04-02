@@ -6,6 +6,7 @@ public class ServiceHub : MonoBehaviour
 
     [Header("System References")]
     public PlayerController playerController;
+    public LevelManager LevelManager;
 
     public GameStateManager GameStateManager;
     public UiManager UiManager;
