@@ -5,6 +5,7 @@ public class LevelManager : MonoBehaviour
     public GameObject levelOne;
     public GameObject levelTwo;
     public GameObject levelThree;
+    public GameObject levelFour;
 
     private GameObject player;
 
