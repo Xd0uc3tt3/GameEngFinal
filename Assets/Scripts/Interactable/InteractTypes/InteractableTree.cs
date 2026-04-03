@@ -6,13 +6,34 @@ public class InteractableTree : MonoBehaviour, IInteractable
     [SerializeField] private int spawnCount = 3;
     [SerializeField] private string interactionMessage = "You shook the Tree";
 
+    [SerializeField] private Sprite treeWithFruit;
+    [SerializeField] private Sprite treeWithoutFruit;
+
     [SerializeField] private float minDistance = 1f;
     [SerializeField] private float maxDistance = 3f;
 
+    [SerializeField] private SpriteRenderer treeSpriteRenderer;
+
+    private bool hasBeenShaken = false;
+
     [SerializeField] private Vector3 spawnOffset = Vector3.zero;
+
+    private void Awake()
+    {
+        treeSpriteRenderer = GetComponentInChildren<SpriteRenderer>();
+        treeSpriteRenderer.sprite = treeWithFruit;
+    }
 
     public void Interact()
     {
+        if (hasBeenShaken)
+        {
+            return;
+        }
+
+        hasBeenShaken = true;
+        treeSpriteRenderer.sprite = treeWithoutFruit;
+
         ServiceHub.Instance.UiManager.ShowMessage(interactionMessage);
 
         for (int i = 0; i < spawnCount; i++)
