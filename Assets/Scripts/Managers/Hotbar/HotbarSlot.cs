@@ -7,10 +7,18 @@ public class HotbarSlot : MonoBehaviour
     [SerializeField] private TextMeshProUGUI amountText;
 
     private int count = 0;
+    private const int maxCount = 10;
 
     public void AddItem()
     {
-        count++;
-        amountText.text = "x" + count.ToString();
+        if (count < maxCount)
+        {
+            count++;
+            amountText.text = "x" + count.ToString();
+        }
+        else
+        {
+            ServiceHub.Instance.UiManager.ShowMessage($"You can't carry any more {itemName}");
+        }
     }
 }
