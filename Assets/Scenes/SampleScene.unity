@@ -3142,6 +3142,7 @@ GameObject:
   m_Component:
   - component: {fileID: 280319626}
   - component: {fileID: 280319627}
+  - component: {fileID: 280319628}
   m_Layer: 0
   m_Name: SlotTwo
   m_TagString: Untagged
@@ -3225,6 +3226,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &280319628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 280319625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Pumpkin
+  amountText: {fileID: 1603127475}
 --- !u!1 &386128812
 GameObject:
   m_ObjectHideFlags: 0
@@ -3783,6 +3798,7 @@ GameObject:
   - component: {fileID: 491222926}
   - component: {fileID: 491222928}
   - component: {fileID: 491222927}
+  - component: {fileID: 491222929}
   m_Layer: 0
   m_Name: Hotbar
   m_TagString: Untagged
@@ -3856,6 +3872,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 491222925}
   m_CullTransparentMesh: 1
+--- !u!114 &491222929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491222925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b32a2665b1101e244a365587b71f6191, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slots:
+  - {fileID: 1501325840}
+  - {fileID: 280319628}
+  - {fileID: 2016536734}
+  - {fileID: 1488970891}
+  - {fileID: 1171824619}
+  - {fileID: 1306197589}
+  - {fileID: 1830275433}
+  - {fileID: 792322753}
+  - {fileID: 995347370}
 --- !u!1 &517296758
 GameObject:
   m_ObjectHideFlags: 0
@@ -4533,11 +4571,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &644547849 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
-  m_PrefabInstance: {fileID: 6489732477465392762}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &660797988
 GameObject:
   m_ObjectHideFlags: 0
@@ -4923,6 +4956,7 @@ GameObject:
   m_Component:
   - component: {fileID: 792322751}
   - component: {fileID: 792322752}
+  - component: {fileID: 792322753}
   m_Layer: 0
   m_Name: Slot8
   m_TagString: Untagged
@@ -5006,6 +5040,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &792322753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 792322750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Grape
+  amountText: {fileID: 1095779435}
 --- !u!1 &809477639
 GameObject:
   m_ObjectHideFlags: 0
@@ -5433,6 +5481,7 @@ GameObject:
   m_Component:
   - component: {fileID: 995347368}
   - component: {fileID: 995347369}
+  - component: {fileID: 995347370}
   m_Layer: 0
   m_Name: Slot9
   m_TagString: Untagged
@@ -5516,6 +5565,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &995347370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 995347367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Egg
+  amountText: {fileID: 1960705325}
 --- !u!1 &1000956759
 GameObject:
   m_ObjectHideFlags: 0
@@ -7044,6 +7107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1171824617}
   - component: {fileID: 1171824618}
+  - component: {fileID: 1171824619}
   m_Layer: 0
   m_Name: SlotFive
   m_TagString: Untagged
@@ -7127,6 +7191,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1171824619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171824616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Cherry
+  amountText: {fileID: 517296760}
 --- !u!1 &1207970205
 GameObject:
   m_ObjectHideFlags: 0
@@ -7982,6 +8060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1306197587}
   - component: {fileID: 1306197588}
+  - component: {fileID: 1306197589}
   m_Layer: 0
   m_Name: Slot6
   m_TagString: Untagged
@@ -8065,6 +8144,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1306197589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306197586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Pear
+  amountText: {fileID: 224127594}
 --- !u!1 &1312305327
 GameObject:
   m_ObjectHideFlags: 0
@@ -8970,7 +9063,7 @@ RectTransform:
   m_GameObject: {fileID: 1456379187}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1501325838}
@@ -9028,6 +9121,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1488970889}
   - component: {fileID: 1488970890}
+  - component: {fileID: 1488970891}
   m_Layer: 0
   m_Name: SlotFour
   m_TagString: Untagged
@@ -9111,6 +9205,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1488970891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488970888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Strawberry
+  amountText: {fileID: 1600831857}
 --- !u!1 &1501325837
 GameObject:
   m_ObjectHideFlags: 0
@@ -9121,6 +9229,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1501325838}
   - component: {fileID: 1501325839}
+  - component: {fileID: 1501325840}
   m_Layer: 0
   m_Name: SlotOne
   m_TagString: Untagged
@@ -9204,6 +9313,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1501325840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501325837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Apple
+  amountText: {fileID: 1740046646}
 --- !u!1 &1503201192
 GameObject:
   m_ObjectHideFlags: 0
@@ -10050,7 +10173,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 644547849}
+  - {fileID: 6018848039490672190}
   m_Father: {fileID: 836748551}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1702510758
@@ -10847,6 +10970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1830275431}
   - component: {fileID: 1830275432}
+  - component: {fileID: 1830275433}
   m_Layer: 0
   m_Name: Slot7
   m_TagString: Untagged
@@ -10930,6 +11054,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1830275433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830275430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Orange
+  amountText: {fileID: 168954383}
 --- !u!1 &1833045055
 GameObject:
   m_ObjectHideFlags: 0
@@ -13586,6 +13724,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2016536732}
   - component: {fileID: 2016536733}
+  - component: {fileID: 2016536734}
   m_Layer: 0
   m_Name: SlotThree
   m_TagString: Untagged
@@ -13669,6 +13808,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2016536734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016536731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbe270bb970c754e93b156f37194fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Carrot
+  amountText: {fileID: 1503201194}
 --- !u!1 &2033049822
 GameObject:
   m_ObjectHideFlags: 0
@@ -14083,7 +14236,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -149.2, y: -99}
+  m_AnchoredPosition: {x: -149.2, y: -492}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2067694457
@@ -14438,7 +14591,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2128133905}
   m_CullTransparentMesh: 1
---- !u!1001 &6489732477465392762
+--- !u!1001 &2206284072185387741
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -14446,55 +14599,60 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1630970624}
     m_Modifications:
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 2741449465611194819, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+      propertyPath: m_Name
+      value: Apple
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.44
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 691046540340764740, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+    - target: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9113351567575484020, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
-      propertyPath: m_Name
-      value: Apple
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+--- !u!4 &6018848039490672190 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8349509516254062270, guid: c1f5ebdd585434f4eb78e61c45b4f5a6, type: 3}
+  m_PrefabInstance: {fileID: 2206284072185387741}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7584088543561097768
 PrefabInstance:
   m_ObjectHideFlags: 0

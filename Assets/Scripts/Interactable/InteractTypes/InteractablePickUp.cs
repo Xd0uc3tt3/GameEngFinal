@@ -10,6 +10,7 @@ public class InteractablePickUp : MonoBehaviour, IInteractable
         ServiceHub.Instance.UiManager.ShowMessage(messageText);
 
         Debug.Log($"Picked up {pickupName}");
+        HotbarManager.Instance.AddItem(pickupName);
         Destroy(gameObject, 0.1f);
     }
 
