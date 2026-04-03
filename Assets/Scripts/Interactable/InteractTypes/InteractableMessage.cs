@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class InteractableCat : MonoBehaviour, IInteractable
+public class InteractableMessage : MonoBehaviour, IInteractable
 {
     [SerializeField] private string messageText = "You pet the cat";
 
