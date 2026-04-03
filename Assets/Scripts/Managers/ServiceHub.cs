@@ -11,6 +11,8 @@ public class ServiceHub : MonoBehaviour
     public GameStateManager GameStateManager;
     public UiManager UiManager;
 
+    public DialougeManager DialogueManager;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)

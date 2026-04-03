@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour
 
     private Vector2 lastMove = Vector2.down;
 
+    private bool moveEnabled = true;
+
     private void Awake()
     {
         playerRb = GetComponent<Rigidbody2D>();
@@ -27,6 +29,11 @@ public class PlayerController : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context)
     {
+        if (!moveEnabled)
+        {
+            return;
+        }
+
         moveInput = context.ReadValue<Vector2>();
     }
 
@@ -37,6 +44,11 @@ public class PlayerController : MonoBehaviour
 
     private void HandlePlayerMovement()
     {
+        if (!moveEnabled)
+        {
+            return;
+        }
+
         playerRb.MovePosition(playerRb.position + moveInput * moveSpeed * Time.fixedDeltaTime);
     }
 
@@ -53,6 +65,16 @@ public class PlayerController : MonoBehaviour
             lastMove = moveInput.normalized;
             animator.SetFloat("LastMoveX", lastMove.x);
             animator.SetFloat("LastMoveY", lastMove.y);
+        }
+    }
+
+    public void SetMovementEnabled(bool enabled)
+    {
+        moveEnabled = enabled;
+
+        if (!enabled)
+        {
+            moveInput = Vector2.zero;
         }
     }
 }

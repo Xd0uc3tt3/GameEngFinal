@@ -13,6 +13,9 @@ public class UiManager : MonoBehaviour
     [SerializeField] private GameObject interactionPrompt;
     [SerializeField] private TextMeshProUGUI messageText;
 
+    [SerializeField] private GameObject dialoguePanel;
+    [SerializeField] private TMP_Text dialogueText;
+
     public void ShowMainMenuUI()
     {
         HideAllUI();
@@ -79,6 +82,18 @@ public class UiManager : MonoBehaviour
         yield return new WaitForSeconds(3f);
 
         messageText.gameObject.SetActive(false);
+    }
+
+    public void ShowDialoguePanel()
+    {
+        Debug.Log("ShowDialoguePanel called");
+        Debug.Log("dialoguePanel is null: " + (dialoguePanel == null));
+        dialoguePanel.SetActive(true);
+    }
+
+    public void HideDialoguePanel()
+    {
+        dialoguePanel.SetActive(false);
     }
 
 }
