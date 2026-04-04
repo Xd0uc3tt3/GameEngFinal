@@ -1,18 +1,14 @@
 using UnityEngine;
 
-public class InteractableDispenser : MonoBehaviour, IInteractable
+public class InteractableOven : MonoBehaviour, IInteractable
 {
     [SerializeField] private string messageText = "You milked the cow";
     [SerializeField] private string ItemName = "Milk";
 
     public void Interact()
     {
-        bool added = HotbarManager.Instance.AddItem(ItemName);
-
-        if (added)
-        {
-            ServiceHub.Instance.UiManager.ShowMessage(messageText);
-        }
+        HotbarManager.Instance.AddItem(ItemName);
+        ServiceHub.Instance.UiManager.ShowMessage(messageText);
     }
 
     public void OnFocus()

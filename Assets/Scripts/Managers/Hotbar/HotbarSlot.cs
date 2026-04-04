@@ -9,16 +9,18 @@ public class HotbarSlot : MonoBehaviour
     private int count = 0;
     private const int maxCount = 10;
 
-    public void AddItem()
+    public bool AddItem()
     {
         if (count < maxCount)
         {
             count++;
             amountText.text = "x" + count.ToString();
+            return true;
         }
         else
         {
             ServiceHub.Instance.UiManager.ShowMessage($"You can't carry any more {itemName}");
+            return false;
         }
     }
 }

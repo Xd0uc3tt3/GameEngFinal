@@ -17,15 +17,16 @@ public class HotbarManager : MonoBehaviour
         }
     }
 
-    public void AddItem(string itemName)
+    public bool AddItem(string itemName)
     {
         foreach (var slot in slots)
         {
             if (slot.itemName == itemName)
             {
-                slot.AddItem();
-                return;
+                return slot.AddItem();
             }
         }
+
+        return false;
     }
 }
