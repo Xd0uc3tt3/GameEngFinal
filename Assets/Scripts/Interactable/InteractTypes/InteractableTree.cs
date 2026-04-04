@@ -48,6 +48,11 @@ public class InteractableTree : MonoBehaviour, IInteractable
 
     public void OnFocus()
     {
+        if (hasBeenShaken)
+        {
+            return;
+        }
+
         ServiceHub.Instance.UiManager.ShowInteractionPrompt(true);
     }
 
