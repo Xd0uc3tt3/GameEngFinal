@@ -4,23 +4,20 @@ public class InteractableOven : MonoBehaviour, IInteractable
 {
     public void Interact()
     {
-        var quest = ServiceHub.Instance.QuestManager;
+        var questManager = ServiceHub.Instance.QuestManager;
+        var quest = questManager.ActiveQuest;
+        if (quest == null)
+        {
+            return;
+        }
 
-        quest.CheckIfCraftable();
+        int index = questManager.activeQuestIndex;
+        questManager.CheckIfCraftable(index);
 
         if (quest.currentState == QuestManager.QuestState.Craftable)
         {
-            foreach (var item in quest.requiredItems)
-            {
-                HotbarManager.Instance.RemoveItem(item);
-            }
-                
-
-            HotbarManager.Instance.AddItem(quest.craftedItem);
-
-            quest.currentState = QuestManager.QuestState.Crafted;
-
-            ServiceHub.Instance.UiManager.ShowMessage("You made some Jam!");
+            questManager.CraftActiveQuest();
+            ServiceHub.Instance.UiManager.ShowMessage($"You made {quest.craftedItem}!");
         }
         else
         {
