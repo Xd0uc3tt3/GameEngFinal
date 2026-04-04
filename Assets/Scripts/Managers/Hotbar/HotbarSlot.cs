@@ -23,4 +23,20 @@ public class HotbarSlot : MonoBehaviour
             return false;
         }
     }
+
+    public bool RemoveItem()
+    {
+        if (count > 0)
+        {
+            count--;
+            amountText.text = "x" + count.ToString();
+            return true;
+        }
+        return false;
+    }
+
+    public int GetCount()
+    {
+        return count;
+    }
 }

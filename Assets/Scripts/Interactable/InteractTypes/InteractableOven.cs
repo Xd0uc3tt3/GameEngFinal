@@ -2,13 +2,30 @@ using UnityEngine;
 
 public class InteractableOven : MonoBehaviour, IInteractable
 {
-    [SerializeField] private string messageText = "You milked the cow";
-    [SerializeField] private string ItemName = "Milk";
-
     public void Interact()
     {
-        HotbarManager.Instance.AddItem(ItemName);
-        ServiceHub.Instance.UiManager.ShowMessage(messageText);
+        var quest = ServiceHub.Instance.QuestManager;
+
+        quest.CheckIfCraftable();
+
+        if (quest.currentState == QuestManager.QuestState.Craftable)
+        {
+            foreach (var item in quest.requiredItems)
+            {
+                HotbarManager.Instance.RemoveItem(item);
+            }
+                
+
+            HotbarManager.Instance.AddItem(quest.craftedItem);
+
+            quest.currentState = QuestManager.QuestState.Crafted;
+
+            ServiceHub.Instance.UiManager.ShowMessage("You made some Jam!");
+        }
+        else
+        {
+            ServiceHub.Instance.UiManager.ShowMessage("You don't have the ingredients.");
+        }
     }
 
     public void OnFocus()

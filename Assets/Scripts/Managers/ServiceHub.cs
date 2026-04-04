@@ -12,6 +12,7 @@ public class ServiceHub : MonoBehaviour
     public UiManager UiManager;
 
     public DialougeManager DialogueManager;
+    public QuestManager QuestManager;
 
     private void Awake()
     {

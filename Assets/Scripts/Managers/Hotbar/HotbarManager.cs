@@ -29,4 +29,30 @@ public class HotbarManager : MonoBehaviour
 
         return false;
     }
+
+    public bool RemoveItem(string itemName)
+    {
+        foreach (var slot in slots)
+        {
+            if (slot.itemName == itemName)
+            {
+                return slot.RemoveItem();
+            }
+                
+        }
+        return false;
+    }
+
+    public int GetItemCount(string itemName)
+    {
+        foreach (var slot in slots)
+        {
+            if (slot.itemName == itemName)
+            {
+                return slot.GetCount();
+            }
+        }
+
+        return 0;
+    }
 }
