@@ -1,0 +1,5794 @@
+fileFormatVersion: 2
+guid: 9f5a8937db658e3419498b7d92321b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5542215447977938127
+    second: CarrotCakeEnjoyer_0
+  - first:
+      213: 4640763687901405050
+    second: CarrotCakeEnjoyer_1
+  - first:
+      213: -1079958740651363192
+    second: CarrotCakeEnjoyer_2
+  - first:
+      213: -6169778555334130082
+    second: CarrotCakeEnjoyer_3
+  - first:
+      213: 4582825307527616681
+    second: CarrotCakeEnjoyer_4
+  - first:
+      213: -8560421382016681144
+    second: CarrotCakeEnjoyer_5
+  - first:
+      213: -3720499948939062164
+    second: CarrotCakeEnjoyer_6
+  - first:
+      213: -8761400536687561090
+    second: CarrotCakeEnjoyer_7
+  - first:
+      213: -6386303750649121416
+    second: CarrotCakeEnjoyer_8
+  - first:
+      213: 6103887755821973451
+    second: CarrotCakeEnjoyer_9
+  - first:
+      213: 5410521174864386051
+    second: CarrotCakeEnjoyer_10
+  - first:
+      213: -3411783719124263631
+    second: CarrotCakeEnjoyer_11
+  - first:
+      213: -1381750504916923826
+    second: CarrotCakeEnjoyer_12
+  - first:
+      213: 225124884053810360
+    second: CarrotCakeEnjoyer_13
+  - first:
+      213: -1893265348893602210
+    second: CarrotCakeEnjoyer_14
+  - first:
+      213: -9104846666552114278
+    second: CarrotCakeEnjoyer_15
+  - first:
+      213: 2126733893731222686
+    second: CarrotCakeEnjoyer_16
+  - first:
+      213: 5628411610915450517
+    second: CarrotCakeEnjoyer_17
+  - first:
+      213: 6347818033804107225
+    second: CarrotCakeEnjoyer_18
+  - first:
+      213: 2500207189512950398
+    second: CarrotCakeEnjoyer_19
+  - first:
+      213: 6833437938502998642
+    second: CarrotCakeEnjoyer_20
+  - first:
+      213: 3036717460548296781
+    second: CarrotCakeEnjoyer_21
+  - first:
+      213: 7090702158846898397
+    second: CarrotCakeEnjoyer_22
+  - first:
+      213: -8273929517950113827
+    second: CarrotCakeEnjoyer_23
+  - first:
+      213: -7868234142837635795
+    second: CarrotCakeEnjoyer_24
+  - first:
+      213: 7057719658002634776
+    second: CarrotCakeEnjoyer_25
+  - first:
+      213: -6196561332132628714
+    second: CarrotCakeEnjoyer_26
+  - first:
+      213: -4404329419417854250
+    second: CarrotCakeEnjoyer_27
+  - first:
+      213: -6962812464646407906
+    second: CarrotCakeEnjoyer_28
+  - first:
+      213: -5334580285837131141
+    second: CarrotCakeEnjoyer_29
+  - first:
+      213: -7260331205675951597
+    second: CarrotCakeEnjoyer_30
+  - first:
+      213: -5291094105709836377
+    second: CarrotCakeEnjoyer_31
+  - first:
+      213: -7699713256501288726
+    second: CarrotCakeEnjoyer_32
+  - first:
+      213: -4371839084034240032
+    second: CarrotCakeEnjoyer_33
+  - first:
+      213: 313051100528744560
+    second: CarrotCakeEnjoyer_34
+  - first:
+      213: -7221243955921077311
+    second: CarrotCakeEnjoyer_35
+  - first:
+      213: 4224395962303198984
+    second: CarrotCakeEnjoyer_36
+  - first:
+      213: -2845688465778721367
+    second: CarrotCakeEnjoyer_37
+  - first:
+      213: 8722363008470644873
+    second: CarrotCakeEnjoyer_38
+  - first:
+      213: 8387851557087227358
+    second: CarrotCakeEnjoyer_39
+  - first:
+      213: -1201656235680350725
+    second: CarrotCakeEnjoyer_40
+  - first:
+      213: 3999841986484038432
+    second: CarrotCakeEnjoyer_41
+  - first:
+      213: 4140206571500903014
+    second: CarrotCakeEnjoyer_42
+  - first:
+      213: 5628280040469367461
+    second: CarrotCakeEnjoyer_43
+  - first:
+      213: 957502195589102171
+    second: CarrotCakeEnjoyer_44
+  - first:
+      213: -6618084674304007290
+    second: CarrotCakeEnjoyer_45
+  - first:
+      213: -6738508280490026527
+    second: CarrotCakeEnjoyer_46
+  - first:
+      213: -8123606960139585467
+    second: CarrotCakeEnjoyer_47
+  - first:
+      213: -4912886307018735636
+    second: CarrotCakeEnjoyer_48
+  - first:
+      213: 1132410344595631457
+    second: CarrotCakeEnjoyer_49
+  - first:
+      213: -8817068741627115823
+    second: CarrotCakeEnjoyer_50
+  - first:
+      213: -3185202239159438774
+    second: CarrotCakeEnjoyer_51
+  - first:
+      213: -2233947737020170096
+    second: CarrotCakeEnjoyer_52
+  - first:
+      213: 8363953415607234688
+    second: CarrotCakeEnjoyer_53
+  - first:
+      213: 6818222127811355727
+    second: CarrotCakeEnjoyer_54
+  - first:
+      213: -2064281593589830693
+    second: CarrotCakeEnjoyer_55
+  - first:
+      213: 6406518415420003755
+    second: CarrotCakeEnjoyer_56
+  - first:
+      213: 2973954572404952222
+    second: CarrotCakeEnjoyer_57
+  - first:
+      213: 2184678001076405294
+    second: CarrotCakeEnjoyer_58
+  - first:
+      213: 3874366032713622690
+    second: CarrotCakeEnjoyer_59
+  - first:
+      213: -4715993610536701141
+    second: CarrotCakeEnjoyer_60
+  - first:
+      213: 1611498030390130217
+    second: CarrotCakeEnjoyer_61
+  - first:
+      213: 8604865147918976023
+    second: CarrotCakeEnjoyer_62
+  - first:
+      213: -6803867525209974522
+    second: CarrotCakeEnjoyer_63
+  - first:
+      213: -678744693039012295
+    second: CarrotCakeEnjoyer_64
+  - first:
+      213: -4879611199009921586
+    second: CarrotCakeEnjoyer_65
+  - first:
+      213: -4016909689992795520
+    second: CarrotCakeEnjoyer_66
+  - first:
+      213: -8327251147377883513
+    second: CarrotCakeEnjoyer_67
+  - first:
+      213: 2471785540018851689
+    second: CarrotCakeEnjoyer_68
+  - first:
+      213: 4320728760268429950
+    second: CarrotCakeEnjoyer_69
+  - first:
+      213: 1390280248115593627
+    second: CarrotCakeEnjoyer_70
+  - first:
+      213: 8397237167770543964
+    second: CarrotCakeEnjoyer_71
+  - first:
+      213: -4177154836009972037
+    second: CarrotCakeEnjoyer_72
+  - first:
+      213: -1396911920011087438
+    second: CarrotCakeEnjoyer_73
+  - first:
+      213: 2598050300734462933
+    second: CarrotCakeEnjoyer_74
+  - first:
+      213: -1741307348943217525
+    second: CarrotCakeEnjoyer_75
+  - first:
+      213: 4998020183045847583
+    second: CarrotCakeEnjoyer_76
+  - first:
+      213: 8632973816766562696
+    second: CarrotCakeEnjoyer_77
+  - first:
+      213: 2000603375130448933
+    second: CarrotCakeEnjoyer_78
+  - first:
+      213: -7239292462402551526
+    second: CarrotCakeEnjoyer_79
+  - first:
+      213: -3770157734432664007
+    second: CarrotCakeEnjoyer_80
+  - first:
+      213: 7239404873524544748
+    second: CarrotCakeEnjoyer_81
+  - first:
+      213: 3707661328457515539
+    second: CarrotCakeEnjoyer_82
+  - first:
+      213: -3691064194861134230
+    second: CarrotCakeEnjoyer_83
+  - first:
+      213: 1867318435982905149
+    second: CarrotCakeEnjoyer_84
+  - first:
+      213: 2099333245741710182
+    second: CarrotCakeEnjoyer_85
+  - first:
+      213: 4467041493882485866
+    second: CarrotCakeEnjoyer_86
+  - first:
+      213: -6491347753493717455
+    second: CarrotCakeEnjoyer_87
+  - first:
+      213: 2099809107990469851
+    second: CarrotCakeEnjoyer_88
+  - first:
+      213: -1594751467865744258
+    second: CarrotCakeEnjoyer_89
+  - first:
+      213: 3953375907610172329
+    second: CarrotCakeEnjoyer_90
+  - first:
+      213: 3117793173259854139
+    second: CarrotCakeEnjoyer_91
+  - first:
+      213: -1966678702127217188
+    second: CarrotCakeEnjoyer_92
+  - first:
+      213: 3576518440306594824
+    second: CarrotCakeEnjoyer_93
+  - first:
+      213: 425070089445397029
+    second: CarrotCakeEnjoyer_94
+  - first:
+      213: -6527187086801862864
+    second: CarrotCakeEnjoyer_95
+  - first:
+      213: -8506298166248572751
+    second: CarrotCakeEnjoyer_96
+  - first:
+      213: -7597932149713972251
+    second: CarrotCakeEnjoyer_97
+  - first:
+      213: 3532034638956107174
+    second: CarrotCakeEnjoyer_98
+  - first:
+      213: 7910651102297852198
+    second: CarrotCakeEnjoyer_99
+  - first:
+      213: -5419467130039299754
+    second: CarrotCakeEnjoyer_100
+  - first:
+      213: 8064549452942292856
+    second: CarrotCakeEnjoyer_101
+  - first:
+      213: 3722691914136864747
+    second: CarrotCakeEnjoyer_102
+  - first:
+      213: 2404418962306454964
+    second: CarrotCakeEnjoyer_103
+  - first:
+      213: -3540575904949116967
+    second: CarrotCakeEnjoyer_104
+  - first:
+      213: -5634165206603719415
+    second: CarrotCakeEnjoyer_105
+  - first:
+      213: -3401406515748855048
+    second: CarrotCakeEnjoyer_106
+  - first:
+      213: 8322258455713209069
+    second: CarrotCakeEnjoyer_107
+  - first:
+      213: 5703610860971213456
+    second: CarrotCakeEnjoyer_108
+  - first:
+      213: 299629710175913003
+    second: CarrotCakeEnjoyer_109
+  - first:
+      213: 4285500848100597714
+    second: CarrotCakeEnjoyer_110
+  - first:
+      213: -8572153823097738411
+    second: CarrotCakeEnjoyer_111
+  - first:
+      213: -4680816520240779721
+    second: CarrotCakeEnjoyer_112
+  - first:
+      213: 34340747634445558
+    second: CarrotCakeEnjoyer_113
+  - first:
+      213: 4373333093593098828
+    second: CarrotCakeEnjoyer_114
+  - first:
+      213: -8780352676905102744
+    second: CarrotCakeEnjoyer_115
+  - first:
+      213: -7351874714332046319
+    second: CarrotCakeEnjoyer_116
+  - first:
+      213: -9161276664271388748
+    second: CarrotCakeEnjoyer_117
+  - first:
+      213: -3436156724762029634
+    second: CarrotCakeEnjoyer_118
+  - first:
+      213: -8706766578958743302
+    second: CarrotCakeEnjoyer_119
+  - first:
+      213: 2537779635897966966
+    second: CarrotCakeEnjoyer_120
+  - first:
+      213: 4702215278302502697
+    second: CarrotCakeEnjoyer_121
+  - first:
+      213: 4728712385622973503
+    second: CarrotCakeEnjoyer_122
+  - first:
+      213: -6722944300860185469
+    second: CarrotCakeEnjoyer_123
+  - first:
+      213: 6220518724725287956
+    second: CarrotCakeEnjoyer_124
+  - first:
+      213: -8458814775941077521
+    second: CarrotCakeEnjoyer_125
+  - first:
+      213: 4694441562032878162
+    second: CarrotCakeEnjoyer_126
+  - first:
+      213: 5120308614508993611
+    second: CarrotCakeEnjoyer_127
+  - first:
+      213: -6643731496321577584
+    second: CarrotCakeEnjoyer_128
+  - first:
+      213: -6967418814793421413
+    second: CarrotCakeEnjoyer_129
+  - first:
+      213: 5079886793631042084
+    second: CarrotCakeEnjoyer_130
+  - first:
+      213: -4037237743100147154
+    second: CarrotCakeEnjoyer_131
+  - first:
+      213: 861628642117944419
+    second: CarrotCakeEnjoyer_132
+  - first:
+      213: 4214664931255283501
+    second: CarrotCakeEnjoyer_133
+  - first:
+      213: 5013080417287807186
+    second: CarrotCakeEnjoyer_134
+  - first:
+      213: -551543507426979289
+    second: CarrotCakeEnjoyer_135
+  - first:
+      213: -5798179406775067134
+    second: CarrotCakeEnjoyer_136
+  - first:
+      213: -4673478397932488838
+    second: CarrotCakeEnjoyer_137
+  - first:
+      213: 2768021853172916977
+    second: CarrotCakeEnjoyer_138
+  - first:
+      213: -8483975577714799129
+    second: CarrotCakeEnjoyer_139
+  - first:
+      213: 3862085736618705773
+    second: CarrotCakeEnjoyer_140
+  - first:
+      213: 2740453515827124729
+    second: CarrotCakeEnjoyer_141
+  - first:
+      213: -2274081414049582550
+    second: CarrotCakeEnjoyer_142
+  - first:
+      213: 3737349329491125123
+    second: CarrotCakeEnjoyer_143
+  - first:
+      213: 4944872768635836502
+    second: CarrotCakeEnjoyer_144
+  - first:
+      213: -2584823971256688772
+    second: CarrotCakeEnjoyer_145
+  - first:
+      213: -7980862802266112053
+    second: CarrotCakeEnjoyer_146
+  - first:
+      213: -8307995396351608378
+    second: CarrotCakeEnjoyer_147
+  - first:
+      213: 897802521244028587
+    second: CarrotCakeEnjoyer_148
+  - first:
+      213: -3932598590618436994
+    second: CarrotCakeEnjoyer_149
+  - first:
+      213: 3440744201660121914
+    second: CarrotCakeEnjoyer_150
+  - first:
+      213: -3819157329437080331
+    second: CarrotCakeEnjoyer_151
+  - first:
+      213: -208932220010626673
+    second: CarrotCakeEnjoyer_152
+  - first:
+      213: 4162152268188000594
+    second: CarrotCakeEnjoyer_153
+  - first:
+      213: 4861258433307649035
+    second: CarrotCakeEnjoyer_154
+  - first:
+      213: 8150506009447082549
+    second: CarrotCakeEnjoyer_155
+  - first:
+      213: -4476467040600443197
+    second: CarrotCakeEnjoyer_156
+  - first:
+      213: -6198438159383367067
+    second: CarrotCakeEnjoyer_157
+  - first:
+      213: -3420104272201664784
+    second: CarrotCakeEnjoyer_158
+  - first:
+      213: 3314526343520133396
+    second: CarrotCakeEnjoyer_159
+  - first:
+      213: -3124890201508626083
+    second: CarrotCakeEnjoyer_160
+  - first:
+      213: 1156612460164363469
+    second: CarrotCakeEnjoyer_161
+  - first:
+      213: 4613207613206523501
+    second: CarrotCakeEnjoyer_162
+  - first:
+      213: 5212285880293168363
+    second: CarrotCakeEnjoyer_163
+  - first:
+      213: 4925335669661411243
+    second: CarrotCakeEnjoyer_164
+  - first:
+      213: 9014721569692065992
+    second: CarrotCakeEnjoyer_165
+  - first:
+      213: 5849492572612506755
+    second: CarrotCakeEnjoyer_166
+  - first:
+      213: -4197912876272251799
+    second: CarrotCakeEnjoyer_167
+  - first:
+      213: 4472160326047316287
+    second: CarrotCakeEnjoyer_168
+  - first:
+      213: -4524908864461362498
+    second: CarrotCakeEnjoyer_169
+  - first:
+      213: 4418700327531675950
+    second: CarrotCakeEnjoyer_170
+  - first:
+      213: -7512374098880265924
+    second: CarrotCakeEnjoyer_171
+  - first:
+      213: 3618513740679864752
+    second: CarrotCakeEnjoyer_172
+  - first:
+      213: 3122824809052249994
+    second: CarrotCakeEnjoyer_173
+  - first:
+      213: -5112144256082156705
+    second: CarrotCakeEnjoyer_174
+  - first:
+      213: 571920536284832190
+    second: CarrotCakeEnjoyer_175
+  - first:
+      213: 4568729152775131310
+    second: CarrotCakeEnjoyer_176
+  - first:
+      213: -5682581345725892788
+    second: CarrotCakeEnjoyer_177
+  - first:
+      213: -5753420928705142178
+    second: CarrotCakeEnjoyer_178
+  - first:
+      213: 2371868085946742105
+    second: CarrotCakeEnjoyer_179
+  - first:
+      213: -4001427562429864032
+    second: CarrotCakeEnjoyer_180
+  - first:
+      213: 4120616448698174435
+    second: CarrotCakeEnjoyer_181
+  - first:
+      213: -9199427367530060348
+    second: CarrotCakeEnjoyer_182
+  - first:
+      213: 8639283140383120133
+    second: CarrotCakeEnjoyer_183
+  - first:
+      213: 7741167706183274844
+    second: CarrotCakeEnjoyer_184
+  - first:
+      213: -7873348155751296654
+    second: CarrotCakeEnjoyer_185
+  - first:
+      213: 5057444449397304477
+    second: CarrotCakeEnjoyer_186
+  - first:
+      213: -8042484450982494185
+    second: CarrotCakeEnjoyer_187
+  - first:
+      213: 109398201069814303
+    second: CarrotCakeEnjoyer_188
+  - first:
+      213: -6060602706495293916
+    second: CarrotCakeEnjoyer_189
+  - first:
+      213: 6486712193524546274
+    second: CarrotCakeEnjoyer_190
+  - first:
+      213: 7781705104193299571
+    second: CarrotCakeEnjoyer_191
+  - first:
+      213: 8680811245634631336
+    second: CarrotCakeEnjoyer_192
+  - first:
+      213: -6363215914582500404
+    second: CarrotCakeEnjoyer_193
+  - first:
+      213: -4821667295398800756
+    second: CarrotCakeEnjoyer_194
+  - first:
+      213: -3618450738165249530
+    second: CarrotCakeEnjoyer_195
+  - first:
+      213: 1854787570159162354
+    second: CarrotCakeEnjoyer_196
+  - first:
+      213: 1997562248646946928
+    second: CarrotCakeEnjoyer_197
+  - first:
+      213: 501141592337216553
+    second: CarrotCakeEnjoyer_198
+  - first:
+      213: 1031993016200034728
+    second: CarrotCakeEnjoyer_199
+  - first:
+      213: -7391392961599135016
+    second: CarrotCakeEnjoyer_200
+  - first:
+      213: 5722932010284989258
+    second: CarrotCakeEnjoyer_201
+  - first:
+      213: -1845351222000500078
+    second: CarrotCakeEnjoyer_202
+  - first:
+      213: -5221032956752741001
+    second: CarrotCakeEnjoyer_203
+  - first:
+      213: -9080446204133712668
+    second: CarrotCakeEnjoyer_204
+  - first:
+      213: 8237223600407125242
+    second: CarrotCakeEnjoyer_205
+  - first:
+      213: 3781699127427446176
+    second: CarrotCakeEnjoyer_206
+  - first:
+      213: -8117787082759534239
+    second: CarrotCakeEnjoyer_207
+  - first:
+      213: 3001168319565612856
+    second: CarrotCakeEnjoyer_208
+  - first:
+      213: -616397984175902022
+    second: CarrotCakeEnjoyer_209
+  - first:
+      213: 5542550356788771306
+    second: CarrotCakeEnjoyer_210
+  - first:
+      213: -2962641200039173377
+    second: CarrotCakeEnjoyer_211
+  - first:
+      213: 2118971649826745105
+    second: CarrotCakeEnjoyer_212
+  - first:
+      213: -2897404326530306319
+    second: CarrotCakeEnjoyer_213
+  - first:
+      213: 3798822584044431950
+    second: CarrotCakeEnjoyer_214
+  - first:
+      213: -2496349225504580576
+    second: CarrotCakeEnjoyer_215
+  - first:
+      213: 5938954631652760015
+    second: CarrotCakeEnjoyer_216
+  - first:
+      213: 7331135937789977035
+    second: CarrotCakeEnjoyer_217
+  - first:
+      213: 390355484988812549
+    second: CarrotCakeEnjoyer_218
+  - first:
+      213: 2132961193979863660
+    second: CarrotCakeEnjoyer_219
+  - first:
+      213: -2887172608438287069
+    second: CarrotCakeEnjoyer_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b79af9681613b0800000000000000
+      internalID: -5542215447977938127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f15ef7cfd476040800000000000000
+      internalID: 4640763687901405050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b56b4f373301f0800000000000000
+      internalID: -1079958740651363192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568c72c71b806aa0800000000000000
+      internalID: -6169778555334130082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a89ada1657799f30800000000000000
+      internalID: 4582825307527616681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bbc3dab16433980800000000000000
+      internalID: -8560421382016681144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d0ac22012e5cc0800000000000000
+      internalID: -3720499948939062164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7632dbb1a0496680800000000000000
+      internalID: -8761400536687561090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87570da239a4f57a0800000000000000
+      internalID: -6386303750649121416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfff9af29d55b450800000000000000
+      internalID: 6103887755821973451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085585a758061b40800000000000000
+      internalID: 5410521174864386051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d132ba8c8e6a0d0800000000000000
+      internalID: -3411783719124263631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac5329c3903dce0800000000000000
+      internalID: -1381750504916923826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd028a3edcf1300800000000000000
+      internalID: 225124884053810360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e04a53235c9b5e0800000000000000
+      internalID: -1893265348893602210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9303c1423615a180800000000000000
+      internalID: -9104846666552114278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9402ab553da38d10800000000000000
+      internalID: 2126733893731222686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eac4e1a822c1e40800000000000000
+      internalID: 5628411610915450517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd56bb9edaf71850800000000000000
+      internalID: 6347818033804107225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e721cc3313582b220800000000000000
+      internalID: 2500207189512950398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1627999f35de50800000000000000
+      internalID: 6833437938502998642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40253fe076942a20800000000000000
+      internalID: 3036717460548296781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03a2a9b0c376260800000000000000
+      internalID: 7090702158846898397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7e6f9c0f81d2d80800000000000000
+      internalID: -8273929517950113827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25009a1cba6ec290800000000000000
+      internalID: -7868234142837635795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818d983b2ae02f160800000000000000
+      internalID: 7057719658002634776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61730599c44610aa0800000000000000
+      internalID: -6196561332132628714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dedbc96abda0e2c0800000000000000
+      internalID: -4404329419417854250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19b61734fe1f5f90800000000000000
+      internalID: -6962812464646407906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7240ec6e73c7f5b0800000000000000
+      internalID: -5334580285837131141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a500e3c3f1e3b90800000000000000
+      internalID: -7260331205675951597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7800cb1f14296b0800000000000000
+      internalID: -5291094105709836377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0efd9869f152590800000000000000
+      internalID: -7699713256501288726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e158fc148b1453c0800000000000000
+      internalID: -4371839084034240032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0789f8b315e285400800000000000000
+      internalID: 313051100528744560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb33e2c1ecf8cb90800000000000000
+      internalID: -7221243955921077311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8073da3feb110aa30800000000000000
+      internalID: 4224395962303198984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad35dfda651288d0800000000000000
+      internalID: -2845688465778721367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98876e171fe0c0970800000000000000
+      internalID: 8722363008470644873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd24e8ec82a76470800000000000000
+      internalID: 8387851557087227358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb322350cd25fe0800000000000000
+      internalID: -1201656235680350725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02be21a381b428730800000000000000
+      internalID: 3999841986484038432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9c07e0f7f47930800000000000000
+      internalID: 4140206571500903014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa099c70eaab1e40800000000000000
+      internalID: 5628280040469367461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5abebf7c2bb94d00800000000000000
+      internalID: 957502195589102171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68327a68d07d724a0800000000000000
+      internalID: -6618084674304007290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e91d59cb620c72a0800000000000000
+      internalID: -6738508280490026527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5483dfda286234f80800000000000000
+      internalID: -8123606960139585467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef7440feebe1dbb0800000000000000
+      internalID: -4912886307018735636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da999653127bf00800000000000000
+      internalID: 1132410344595631457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d68d1fb1ba73a580800000000000000
+      internalID: -8817068741627115823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a427f1d7073ebc3d0800000000000000
+      internalID: -3185202239159438774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09000208e5c6ff0e0800000000000000
+      internalID: -2233947737020170096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803f2f315bb21470800000000000000
+      internalID: 8363953415607234688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4467e796e03f9e50800000000000000
+      internalID: 6818222127811355727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb63b1e3d23a53e0800000000000000
+      internalID: -2064281593589830693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59b1e3e8688e850800000000000000
+      internalID: 6406518415420003755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c885a4deb954920800000000000000
+      internalID: 2973954572404952222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405ca2119815e10800000000000000
+      internalID: 2184678001076405294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42cb5216384c530800000000000000
+      internalID: 3874366032713622690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b2f03ccc6d8eb0800000000000000
+      internalID: -4715993610536701141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92635a9abe03d5610800000000000000
+      internalID: 1611498030390130217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71489d1f24f9a6770800000000000000
+      internalID: 8604865147918976023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6091b05c88ec391a0800000000000000
+      internalID: -6803867525209974522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9366a3e3c4d9496f0800000000000000
+      internalID: -678744693039012295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5eef0c773284cb0800000000000000
+      internalID: -4879611199009921586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa7216be11148c0800000000000000
+      internalID: -4016909689992795520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786c31d7339af6c80800000000000000
+      internalID: -8327251147377883513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f45c14adb8d4220800000000000000
+      internalID: 2471785540018851689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1d9e4aef46fb30800000000000000
+      internalID: 4320728760268429950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b910c2705844b4310800000000000000
+      internalID: 1390280248115593627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57abafa6baf88470800000000000000
+      internalID: 8397237167770543964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe02d3eec3c706c0800000000000000
+      internalID: -4177154836009972037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1fa39820c2d9ce0800000000000000
+      internalID: -1396911920011087438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdfd3cbf02e0420800000000000000
+      internalID: 2598050300734462933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c56752132a5d7e0800000000000000
+      internalID: -1741307348943217525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a3ea630e88c5540800000000000000
+      internalID: 4998020183045847583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8818e9762fb7ec770800000000000000
+      internalID: 8632973816766562696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52419178b2293cb10800000000000000
+      internalID: 2000603375130448933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1145516cddd88b90800000000000000
+      internalID: -7239292462402551526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93613f30485bdabc0800000000000000
+      internalID: -3770157734432664007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce489af5068877460800000000000000
+      internalID: 7239404873524544748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c92e8552447330800000000000000
+      internalID: 3707661328457515539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e832ebba4b6ccc0800000000000000
+      internalID: -3691064194861134230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f8c4b593c0ae910800000000000000
+      internalID: 1867318435982905149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b3a99d674522d10800000000000000
+      internalID: 2099333245741710182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cbbcf329e1efd30800000000000000
+      internalID: 4467041493882485866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e1a7f5c991ae5a0800000000000000
+      internalID: -6491347753493717455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd6e92245042d10800000000000000
+      internalID: 2099809107990469851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c54d44dfd4ed9e0800000000000000
+      internalID: -1594751467865744258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab11bc21763dd630800000000000000
+      internalID: 3953375907610172329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31aa4f4f50a44b20800000000000000
+      internalID: 3117793173259854139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5816ce324f4b4e0800000000000000
+      internalID: -1966678702127217188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804db1f729852a130800000000000000
+      internalID: 3576518440306594824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52259068ef626e500800000000000000
+      internalID: 425070089445397029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f78a45de5ca65a0800000000000000
+      internalID: -6527187086801862864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b87237d2ee83f980800000000000000
+      internalID: -8506298166248572751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e357c427f8be8690800000000000000
+      internalID: -7597932149713972251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59a556ace440130800000000000000
+      internalID: 3532034638956107174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629048ed34748cd60800000000000000
+      internalID: 7910651102297852198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6511a1adb5f2ac4b0800000000000000
+      internalID: -5419467130039299754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773238eff80bef60800000000000000
+      internalID: 8064549452942292856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c85e7298a9a330800000000000000
+      internalID: 3722691914136864747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b55d7b9e463e5120800000000000000
+      internalID: 2404418962306454964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df533529f85ddec0800000000000000
+      internalID: -3540575904949116967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d158e789c6fc1b0800000000000000
+      internalID: -5634165206603719415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2271c9bc6cbc0d0800000000000000
+      internalID: -3401406515748855048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead6c5e8f99e7370800000000000000
+      internalID: 8322258455713209069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092cf39ebdb472f40800000000000000
+      internalID: 5703610860971213456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24403742af782400800000000000000
+      internalID: 299629710175913003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfdba7d058297b30800000000000000
+      internalID: 4285500848100597714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ba04ed387990980800000000000000
+      internalID: -8572153823097738411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea444cc266a0fb0800000000000000
+      internalID: -4680816520240779721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc82106ab00a7000800000000000000
+      internalID: 34340747634445558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa318174331bc30800000000000000
+      internalID: 4373333093593098828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862db6ab2cbe52680800000000000000
+      internalID: -8780352676905102744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cdf0336e4e8f990800000000000000
+      internalID: -7351874714332046319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf3701996b9cd080800000000000000
+      internalID: -9161276664271388748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb15df31aa15050d0800000000000000
+      internalID: -3436156724762029634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8cbe64de95b2780800000000000000
+      internalID: -8706766578958743302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6712be31221083320800000000000000
+      internalID: 2537779635897966966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f92a8d1ef914140800000000000000
+      internalID: 4702215278302502697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c1c066cd2cf9140800000000000000
+      internalID: 4728712385622973503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384ed7e27cd43b2a0800000000000000
+      internalID: -6722944300860185469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41caae982d8b35650800000000000000
+      internalID: 6220518724725287956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e43b27c04c9a80800000000000000
+      internalID: -8458814775941077521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252bccb7ab1062140800000000000000
+      internalID: 4694441562032878162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c5e2c6e8dfe0740800000000000000
+      internalID: 5120308614508993611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d8da27769bcc3a0800000000000000
+      internalID: -6643731496321577584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d6ddeb081ce4f90800000000000000
+      internalID: -6967418814793421413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a8399df126f7640800000000000000
+      internalID: 5079886793631042084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a47b0b9a9d8f7c0800000000000000
+      internalID: -4037237743100147154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3640eb55fae15fb00800000000000000
+      internalID: 861628642117944419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f64cabc6f7d7a30800000000000000
+      internalID: 4214664931255283501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d028ee341a029540800000000000000
+      internalID: 5013080417287807186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72254a92a168858f0800000000000000
+      internalID: -551543507426979289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20edf23bc8ab88fa0800000000000000
+      internalID: -5798179406775067134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b5c18828742fb0800000000000000
+      internalID: -4673478397932488838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2e3e8b53df96620800000000000000
+      internalID: 2768021853172916977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed483f792dd24a80800000000000000
+      internalID: -8483975577714799129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c247e382e89530800000000000000
+      internalID: 3862085736618705773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9985ef3fb080620800000000000000
+      internalID: 2740453515827124729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b145a007d070e0800000000000000
+      internalID: -2274081414049582550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383ecd1f96bbdd330800000000000000
+      internalID: 3737349329491125123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6589a028597bf9440800000000000000
+      internalID: 4944872768635836502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f945a0b4cd02cd0800000000000000
+      internalID: -2584823971256688772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfbcc5d0974e3190800000000000000
+      internalID: -7980862802266112053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9b1e4643214bc80800000000000000
+      internalID: -8307995396351608378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae4335e2a2a57c00800000000000000
+      internalID: 897802521244028587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7cf9ea6a9c69c0800000000000000
+      internalID: -3932598590618436994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33cfee1f9affbf20800000000000000
+      internalID: 3440744201660121914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c295c4a0affac0800000000000000
+      internalID: -3819157329437080331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81022cb049b91df0800000000000000
+      internalID: -208932220010626673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251ae669f6fe2c930800000000000000
+      internalID: 4162152268188000594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04acaef9c8a67340800000000000000
+      internalID: 4861258433307649035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aa7c8480a6c1170800000000000000
+      internalID: 8150506009447082549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c63444a1f460e1c0800000000000000
+      internalID: -4476467040600443197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627ab3b559baf9a0800000000000000
+      internalID: -6198438159383367067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6bf90f8495980d0800000000000000
+      internalID: -3420104272201664784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4112138f5209ffd20800000000000000
+      internalID: 3314526343520133396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51caf80be822a4d0800000000000000
+      internalID: -3124890201508626083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc433ee87ec1d0010800000000000000
+      internalID: 1156612460164363469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6d44e1e7650040800000000000000
+      internalID: 4613207613206523501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be498aa6462c55840800000000000000
+      internalID: 5212285880293168363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7aabd22be4a5440800000000000000
+      internalID: 4925335669661411243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02c8e6189ba1d70800000000000000
+      internalID: 9014721569692065992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384badab0829d2150800000000000000
+      internalID: 5849492572612506755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c01c30b740eb5c0800000000000000
+      internalID: -4197912876272251799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3935ac3f1e401e30800000000000000
+      internalID: 4472160326047316287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa3cc9c5b4431c0800000000000000
+      internalID: -4524908864461362498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218d6f5980625d30800000000000000
+      internalID: 4418700327531675950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3185603f8faeb790800000000000000
+      internalID: -7512374098880265924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e710531b873230800000000000000
+      internalID: 3618513740679864752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f165f4e90865b20800000000000000
+      internalID: 3122824809052249994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f536ba762e30e09b0800000000000000
+      internalID: -5112144256082156705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1220592bedfe700800000000000000
+      internalID: 571920536284832190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0122255f2676f30800000000000000
+      internalID: 4568729152775131310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c473fb8af5a6321b0800000000000000
+      internalID: -5682581345725892788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526b35f52eb720b0800000000000000
+      internalID: -5753420928705142178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955f0fc15719ae020800000000000000
+      internalID: 2371868085946742105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a729ea15d21878c0800000000000000
+      internalID: -4001427562429864032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb494004de5f2930800000000000000
+      internalID: 4120616448698174435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c52d55cc81155080800000000000000
+      internalID: -9199427367530060348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9e884e36e4e770800000000000000
+      internalID: 8639283140383120133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5197c9a3072e6b60800000000000000
+      internalID: 7741167706183274844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271977f219f3cb290800000000000000
+      internalID: -7873348155751296654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce8956ee6af2640800000000000000
+      internalID: 5057444449397304477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7100693b00b536090800000000000000
+      internalID: -8042484450982494185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1245d19519a48100800000000000000
+      internalID: 109398201069814303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b39ae2f964eba0800000000000000
+      internalID: -6060602706495293916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab9373f5e650a50800000000000000
+      internalID: 6486712193524546274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3742942209b2efb60800000000000000
+      internalID: 7781705104193299571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6b442c5df687870800000000000000
+      internalID: 8680811245634631336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb9236e6d051b7a0800000000000000
+      internalID: -6363215914582500404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d2a0242ff51db0800000000000000
+      internalID: -4821667295398800756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a096a993ea8cdc0800000000000000
+      internalID: -3618450738165249530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3952dc7778db910800000000000000
+      internalID: 1854787570159162354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f4571844c8bb10800000000000000
+      internalID: 1997562248646946928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924fe618f9964f600800000000000000
+      internalID: 501141592337216553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a979453e20625e00800000000000000
+      internalID: 1031993016200034728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2af80434f7c6990800000000000000
+      internalID: -7391392961599135016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bbfba8750fb6f40800000000000000
+      internalID: 5722932010284989258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292c3d637def366e0800000000000000
+      internalID: -1845351222000500078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d3524203a2b87b0800000000000000
+      internalID: -5221032956752741001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd090a946cbf180800000000000000
+      internalID: -9080446204133712668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc1bbdc83f705270800000000000000
+      internalID: 8237223600407125242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b7b1f15b4b7430800000000000000
+      internalID: 3781699127427446176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1690dd978a3d75f80800000000000000
+      internalID: -8117787082759534239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374dde8faa46a920800000000000000
+      internalID: 3001168319565612856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2bde89c4d1277f0800000000000000
+      internalID: -616397984175902022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9fb1e0f281bec40800000000000000
+      internalID: 5542550356788771306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff26aba768592e6d0800000000000000
+      internalID: -2962641200039173377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11beb0d1d79186d10800000000000000
+      internalID: 2118971649826745105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2b7abd1a5ac7d0800000000000000
+      internalID: -2897404326530306319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a23be530128b430800000000000000
+      internalID: 3798822584044431950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c5a7a0b9f2b5dd0800000000000000
+      internalID: -2496349225504580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d2d485c76b6250800000000000000
+      internalID: 5938954631652760015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotCakeEnjoyer_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1621c1b4d6db560800000000000000
+      internalID: 7331135937789977035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8532cb765a16d540a0f299f6c3fc5f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CarrotCakeEnjoyer_0: -5542215447977938127
+      CarrotCakeEnjoyer_1: 4640763687901405050
+      CarrotCakeEnjoyer_10: 5410521174864386051
+      CarrotCakeEnjoyer_100: -5419467130039299754
+      CarrotCakeEnjoyer_101: 8064549452942292856
+      CarrotCakeEnjoyer_102: 3722691914136864747
+      CarrotCakeEnjoyer_103: 2404418962306454964
+      CarrotCakeEnjoyer_104: -3540575904949116967
+      CarrotCakeEnjoyer_105: -5634165206603719415
+      CarrotCakeEnjoyer_106: -3401406515748855048
+      CarrotCakeEnjoyer_107: 8322258455713209069
+      CarrotCakeEnjoyer_108: 5703610860971213456
+      CarrotCakeEnjoyer_109: 299629710175913003
+      CarrotCakeEnjoyer_11: -3411783719124263631
+      CarrotCakeEnjoyer_110: 4285500848100597714
+      CarrotCakeEnjoyer_111: -8572153823097738411
+      CarrotCakeEnjoyer_112: -4680816520240779721
+      CarrotCakeEnjoyer_113: 34340747634445558
+      CarrotCakeEnjoyer_114: 4373333093593098828
+      CarrotCakeEnjoyer_115: -8780352676905102744
+      CarrotCakeEnjoyer_116: -7351874714332046319
+      CarrotCakeEnjoyer_117: -9161276664271388748
+      CarrotCakeEnjoyer_118: -3436156724762029634
+      CarrotCakeEnjoyer_119: -8706766578958743302
+      CarrotCakeEnjoyer_12: -1381750504916923826
+      CarrotCakeEnjoyer_120: 2537779635897966966
+      CarrotCakeEnjoyer_121: 4702215278302502697
+      CarrotCakeEnjoyer_122: 4728712385622973503
+      CarrotCakeEnjoyer_123: -6722944300860185469
+      CarrotCakeEnjoyer_124: 6220518724725287956
+      CarrotCakeEnjoyer_125: -8458814775941077521
+      CarrotCakeEnjoyer_126: 4694441562032878162
+      CarrotCakeEnjoyer_127: 5120308614508993611
+      CarrotCakeEnjoyer_128: -6643731496321577584
+      CarrotCakeEnjoyer_129: -6967418814793421413
+      CarrotCakeEnjoyer_13: 225124884053810360
+      CarrotCakeEnjoyer_130: 5079886793631042084
+      CarrotCakeEnjoyer_131: -4037237743100147154
+      CarrotCakeEnjoyer_132: 861628642117944419
+      CarrotCakeEnjoyer_133: 4214664931255283501
+      CarrotCakeEnjoyer_134: 5013080417287807186
+      CarrotCakeEnjoyer_135: -551543507426979289
+      CarrotCakeEnjoyer_136: -5798179406775067134
+      CarrotCakeEnjoyer_137: -4673478397932488838
+      CarrotCakeEnjoyer_138: 2768021853172916977
+      CarrotCakeEnjoyer_139: -8483975577714799129
+      CarrotCakeEnjoyer_14: -1893265348893602210
+      CarrotCakeEnjoyer_140: 3862085736618705773
+      CarrotCakeEnjoyer_141: 2740453515827124729
+      CarrotCakeEnjoyer_142: -2274081414049582550
+      CarrotCakeEnjoyer_143: 3737349329491125123
+      CarrotCakeEnjoyer_144: 4944872768635836502
+      CarrotCakeEnjoyer_145: -2584823971256688772
+      CarrotCakeEnjoyer_146: -7980862802266112053
+      CarrotCakeEnjoyer_147: -8307995396351608378
+      CarrotCakeEnjoyer_148: 897802521244028587
+      CarrotCakeEnjoyer_149: -3932598590618436994
+      CarrotCakeEnjoyer_15: -9104846666552114278
+      CarrotCakeEnjoyer_150: 3440744201660121914
+      CarrotCakeEnjoyer_151: -3819157329437080331
+      CarrotCakeEnjoyer_152: -208932220010626673
+      CarrotCakeEnjoyer_153: 4162152268188000594
+      CarrotCakeEnjoyer_154: 4861258433307649035
+      CarrotCakeEnjoyer_155: 8150506009447082549
+      CarrotCakeEnjoyer_156: -4476467040600443197
+      CarrotCakeEnjoyer_157: -6198438159383367067
+      CarrotCakeEnjoyer_158: -3420104272201664784
+      CarrotCakeEnjoyer_159: 3314526343520133396
+      CarrotCakeEnjoyer_16: 2126733893731222686
+      CarrotCakeEnjoyer_160: -3124890201508626083
+      CarrotCakeEnjoyer_161: 1156612460164363469
+      CarrotCakeEnjoyer_162: 4613207613206523501
+      CarrotCakeEnjoyer_163: 5212285880293168363
+      CarrotCakeEnjoyer_164: 4925335669661411243
+      CarrotCakeEnjoyer_165: 9014721569692065992
+      CarrotCakeEnjoyer_166: 5849492572612506755
+      CarrotCakeEnjoyer_167: -4197912876272251799
+      CarrotCakeEnjoyer_168: 4472160326047316287
+      CarrotCakeEnjoyer_169: -4524908864461362498
+      CarrotCakeEnjoyer_17: 5628411610915450517
+      CarrotCakeEnjoyer_170: 4418700327531675950
+      CarrotCakeEnjoyer_171: -7512374098880265924
+      CarrotCakeEnjoyer_172: 3618513740679864752
+      CarrotCakeEnjoyer_173: 3122824809052249994
+      CarrotCakeEnjoyer_174: -5112144256082156705
+      CarrotCakeEnjoyer_175: 571920536284832190
+      CarrotCakeEnjoyer_176: 4568729152775131310
+      CarrotCakeEnjoyer_177: -5682581345725892788
+      CarrotCakeEnjoyer_178: -5753420928705142178
+      CarrotCakeEnjoyer_179: 2371868085946742105
+      CarrotCakeEnjoyer_18: 6347818033804107225
+      CarrotCakeEnjoyer_180: -4001427562429864032
+      CarrotCakeEnjoyer_181: 4120616448698174435
+      CarrotCakeEnjoyer_182: -9199427367530060348
+      CarrotCakeEnjoyer_183: 8639283140383120133
+      CarrotCakeEnjoyer_184: 7741167706183274844
+      CarrotCakeEnjoyer_185: -7873348155751296654
+      CarrotCakeEnjoyer_186: 5057444449397304477
+      CarrotCakeEnjoyer_187: -8042484450982494185
+      CarrotCakeEnjoyer_188: 109398201069814303
+      CarrotCakeEnjoyer_189: -6060602706495293916
+      CarrotCakeEnjoyer_19: 2500207189512950398
+      CarrotCakeEnjoyer_190: 6486712193524546274
+      CarrotCakeEnjoyer_191: 7781705104193299571
+      CarrotCakeEnjoyer_192: 8680811245634631336
+      CarrotCakeEnjoyer_193: -6363215914582500404
+      CarrotCakeEnjoyer_194: -4821667295398800756
+      CarrotCakeEnjoyer_195: -3618450738165249530
+      CarrotCakeEnjoyer_196: 1854787570159162354
+      CarrotCakeEnjoyer_197: 1997562248646946928
+      CarrotCakeEnjoyer_198: 501141592337216553
+      CarrotCakeEnjoyer_199: 1031993016200034728
+      CarrotCakeEnjoyer_2: -1079958740651363192
+      CarrotCakeEnjoyer_20: 6833437938502998642
+      CarrotCakeEnjoyer_200: -7391392961599135016
+      CarrotCakeEnjoyer_201: 5722932010284989258
+      CarrotCakeEnjoyer_202: -1845351222000500078
+      CarrotCakeEnjoyer_203: -5221032956752741001
+      CarrotCakeEnjoyer_204: -9080446204133712668
+      CarrotCakeEnjoyer_205: 8237223600407125242
+      CarrotCakeEnjoyer_206: 3781699127427446176
+      CarrotCakeEnjoyer_207: -8117787082759534239
+      CarrotCakeEnjoyer_208: 3001168319565612856
+      CarrotCakeEnjoyer_209: -616397984175902022
+      CarrotCakeEnjoyer_21: 3036717460548296781
+      CarrotCakeEnjoyer_210: 5542550356788771306
+      CarrotCakeEnjoyer_211: -2962641200039173377
+      CarrotCakeEnjoyer_212: 2118971649826745105
+      CarrotCakeEnjoyer_213: -2897404326530306319
+      CarrotCakeEnjoyer_214: 3798822584044431950
+      CarrotCakeEnjoyer_215: -2496349225504580576
+      CarrotCakeEnjoyer_216: 5938954631652760015
+      CarrotCakeEnjoyer_217: 7331135937789977035
+      CarrotCakeEnjoyer_22: 7090702158846898397
+      CarrotCakeEnjoyer_23: -8273929517950113827
+      CarrotCakeEnjoyer_24: -7868234142837635795
+      CarrotCakeEnjoyer_25: 7057719658002634776
+      CarrotCakeEnjoyer_26: -6196561332132628714
+      CarrotCakeEnjoyer_27: -4404329419417854250
+      CarrotCakeEnjoyer_28: -6962812464646407906
+      CarrotCakeEnjoyer_29: -5334580285837131141
+      CarrotCakeEnjoyer_3: -6169778555334130082
+      CarrotCakeEnjoyer_30: -7260331205675951597
+      CarrotCakeEnjoyer_31: -5291094105709836377
+      CarrotCakeEnjoyer_32: -7699713256501288726
+      CarrotCakeEnjoyer_33: -4371839084034240032
+      CarrotCakeEnjoyer_34: 313051100528744560
+      CarrotCakeEnjoyer_35: -7221243955921077311
+      CarrotCakeEnjoyer_36: 4224395962303198984
+      CarrotCakeEnjoyer_37: -2845688465778721367
+      CarrotCakeEnjoyer_38: 8722363008470644873
+      CarrotCakeEnjoyer_39: 8387851557087227358
+      CarrotCakeEnjoyer_4: 4582825307527616681
+      CarrotCakeEnjoyer_40: -1201656235680350725
+      CarrotCakeEnjoyer_41: 3999841986484038432
+      CarrotCakeEnjoyer_42: 4140206571500903014
+      CarrotCakeEnjoyer_43: 5628280040469367461
+      CarrotCakeEnjoyer_44: 957502195589102171
+      CarrotCakeEnjoyer_45: -6618084674304007290
+      CarrotCakeEnjoyer_46: -6738508280490026527
+      CarrotCakeEnjoyer_47: -8123606960139585467
+      CarrotCakeEnjoyer_48: -4912886307018735636
+      CarrotCakeEnjoyer_49: 1132410344595631457
+      CarrotCakeEnjoyer_5: -8560421382016681144
+      CarrotCakeEnjoyer_50: -8817068741627115823
+      CarrotCakeEnjoyer_51: -3185202239159438774
+      CarrotCakeEnjoyer_52: -2233947737020170096
+      CarrotCakeEnjoyer_53: 8363953415607234688
+      CarrotCakeEnjoyer_54: 6818222127811355727
+      CarrotCakeEnjoyer_55: -2064281593589830693
+      CarrotCakeEnjoyer_56: 6406518415420003755
+      CarrotCakeEnjoyer_57: 2973954572404952222
+      CarrotCakeEnjoyer_58: 2184678001076405294
+      CarrotCakeEnjoyer_59: 3874366032713622690
+      CarrotCakeEnjoyer_6: -3720499948939062164
+      CarrotCakeEnjoyer_60: -4715993610536701141
+      CarrotCakeEnjoyer_61: 1611498030390130217
+      CarrotCakeEnjoyer_62: 8604865147918976023
+      CarrotCakeEnjoyer_63: -6803867525209974522
+      CarrotCakeEnjoyer_64: -678744693039012295
+      CarrotCakeEnjoyer_65: -4879611199009921586
+      CarrotCakeEnjoyer_66: -4016909689992795520
+      CarrotCakeEnjoyer_67: -8327251147377883513
+      CarrotCakeEnjoyer_68: 2471785540018851689
+      CarrotCakeEnjoyer_69: 4320728760268429950
+      CarrotCakeEnjoyer_7: -8761400536687561090
+      CarrotCakeEnjoyer_70: 1390280248115593627
+      CarrotCakeEnjoyer_71: 8397237167770543964
+      CarrotCakeEnjoyer_72: -4177154836009972037
+      CarrotCakeEnjoyer_73: -1396911920011087438
+      CarrotCakeEnjoyer_74: 2598050300734462933
+      CarrotCakeEnjoyer_75: -1741307348943217525
+      CarrotCakeEnjoyer_76: 4998020183045847583
+      CarrotCakeEnjoyer_77: 8632973816766562696
+      CarrotCakeEnjoyer_78: 2000603375130448933
+      CarrotCakeEnjoyer_79: -7239292462402551526
+      CarrotCakeEnjoyer_8: -6386303750649121416
+      CarrotCakeEnjoyer_80: -3770157734432664007
+      CarrotCakeEnjoyer_81: 7239404873524544748
+      CarrotCakeEnjoyer_82: 3707661328457515539
+      CarrotCakeEnjoyer_83: -3691064194861134230
+      CarrotCakeEnjoyer_84: 1867318435982905149
+      CarrotCakeEnjoyer_85: 2099333245741710182
+      CarrotCakeEnjoyer_86: 4467041493882485866
+      CarrotCakeEnjoyer_87: -6491347753493717455
+      CarrotCakeEnjoyer_88: 2099809107990469851
+      CarrotCakeEnjoyer_89: -1594751467865744258
+      CarrotCakeEnjoyer_9: 6103887755821973451
+      CarrotCakeEnjoyer_90: 3953375907610172329
+      CarrotCakeEnjoyer_91: 3117793173259854139
+      CarrotCakeEnjoyer_92: -1966678702127217188
+      CarrotCakeEnjoyer_93: 3576518440306594824
+      CarrotCakeEnjoyer_94: 425070089445397029
+      CarrotCakeEnjoyer_95: -6527187086801862864
+      CarrotCakeEnjoyer_96: -8506298166248572751
+      CarrotCakeEnjoyer_97: -7597932149713972251
+      CarrotCakeEnjoyer_98: 3532034638956107174
+      CarrotCakeEnjoyer_99: 7910651102297852198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

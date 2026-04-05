@@ -1,0 +1,5791 @@
+fileFormatVersion: 2
+guid: 22626ab6a004bea40afffa3e55c5cd95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9203118698465615999
+    second: MixedBerryTartEnjoyer_0
+  - first:
+      213: 259559662628045796
+    second: MixedBerryTartEnjoyer_1
+  - first:
+      213: -4762405254116818910
+    second: MixedBerryTartEnjoyer_2
+  - first:
+      213: -1497146536102380940
+    second: MixedBerryTartEnjoyer_3
+  - first:
+      213: -827527235501333491
+    second: MixedBerryTartEnjoyer_4
+  - first:
+      213: 1405074350100140858
+    second: MixedBerryTartEnjoyer_5
+  - first:
+      213: 5388926709814454981
+    second: MixedBerryTartEnjoyer_6
+  - first:
+      213: -3017839345178297143
+    second: MixedBerryTartEnjoyer_7
+  - first:
+      213: 1065326576552479297
+    second: MixedBerryTartEnjoyer_8
+  - first:
+      213: -3284872438960746800
+    second: MixedBerryTartEnjoyer_9
+  - first:
+      213: 9128436456727636081
+    second: MixedBerryTartEnjoyer_10
+  - first:
+      213: 3054311098503637913
+    second: MixedBerryTartEnjoyer_11
+  - first:
+      213: -5545872187966632769
+    second: MixedBerryTartEnjoyer_12
+  - first:
+      213: -741197332600174315
+    second: MixedBerryTartEnjoyer_13
+  - first:
+      213: 6747003293357939467
+    second: MixedBerryTartEnjoyer_14
+  - first:
+      213: -6480920711038007519
+    second: MixedBerryTartEnjoyer_15
+  - first:
+      213: -4139035943619787731
+    second: MixedBerryTartEnjoyer_16
+  - first:
+      213: 1573807378753267370
+    second: MixedBerryTartEnjoyer_17
+  - first:
+      213: -8145721088334045705
+    second: MixedBerryTartEnjoyer_18
+  - first:
+      213: 4668112475789113123
+    second: MixedBerryTartEnjoyer_19
+  - first:
+      213: 1779811294732946127
+    second: MixedBerryTartEnjoyer_20
+  - first:
+      213: 8595547349229586043
+    second: MixedBerryTartEnjoyer_21
+  - first:
+      213: 4464849953847870631
+    second: MixedBerryTartEnjoyer_22
+  - first:
+      213: 7584549829381992635
+    second: MixedBerryTartEnjoyer_23
+  - first:
+      213: 8525259529919947074
+    second: MixedBerryTartEnjoyer_24
+  - first:
+      213: -330213357703284302
+    second: MixedBerryTartEnjoyer_25
+  - first:
+      213: -4431633502126911798
+    second: MixedBerryTartEnjoyer_26
+  - first:
+      213: -8681118356662354655
+    second: MixedBerryTartEnjoyer_27
+  - first:
+      213: -34851877187882970
+    second: MixedBerryTartEnjoyer_28
+  - first:
+      213: 59427634892233817
+    second: MixedBerryTartEnjoyer_29
+  - first:
+      213: 7099380357323139497
+    second: MixedBerryTartEnjoyer_30
+  - first:
+      213: 7527174363104496661
+    second: MixedBerryTartEnjoyer_31
+  - first:
+      213: 5171033267060988537
+    second: MixedBerryTartEnjoyer_32
+  - first:
+      213: 2072616984388701837
+    second: MixedBerryTartEnjoyer_33
+  - first:
+      213: -656242808576215370
+    second: MixedBerryTartEnjoyer_34
+  - first:
+      213: 1821283991731294805
+    second: MixedBerryTartEnjoyer_35
+  - first:
+      213: 9110575772624867299
+    second: MixedBerryTartEnjoyer_36
+  - first:
+      213: -1498126913842831038
+    second: MixedBerryTartEnjoyer_37
+  - first:
+      213: -8606465631677490490
+    second: MixedBerryTartEnjoyer_38
+  - first:
+      213: -5930211129471727286
+    second: MixedBerryTartEnjoyer_39
+  - first:
+      213: -2428438686182579230
+    second: MixedBerryTartEnjoyer_40
+  - first:
+      213: 2725844442448643922
+    second: MixedBerryTartEnjoyer_41
+  - first:
+      213: -2317728482658107965
+    second: MixedBerryTartEnjoyer_42
+  - first:
+      213: 2186470163674284505
+    second: MixedBerryTartEnjoyer_43
+  - first:
+      213: -1971356717410986913
+    second: MixedBerryTartEnjoyer_44
+  - first:
+      213: -3333542555681749449
+    second: MixedBerryTartEnjoyer_45
+  - first:
+      213: -8389112671888360753
+    second: MixedBerryTartEnjoyer_46
+  - first:
+      213: -3141340284053276724
+    second: MixedBerryTartEnjoyer_47
+  - first:
+      213: -2581625199538537026
+    second: MixedBerryTartEnjoyer_48
+  - first:
+      213: 7449036589880777453
+    second: MixedBerryTartEnjoyer_49
+  - first:
+      213: 6699395349754909309
+    second: MixedBerryTartEnjoyer_50
+  - first:
+      213: -4948647362114739403
+    second: MixedBerryTartEnjoyer_51
+  - first:
+      213: -2041689367387198107
+    second: MixedBerryTartEnjoyer_52
+  - first:
+      213: 7432043576489920809
+    second: MixedBerryTartEnjoyer_53
+  - first:
+      213: -1370876925141749927
+    second: MixedBerryTartEnjoyer_54
+  - first:
+      213: 5553570563155271039
+    second: MixedBerryTartEnjoyer_55
+  - first:
+      213: -4163651244044665482
+    second: MixedBerryTartEnjoyer_56
+  - first:
+      213: -8889962325082692640
+    second: MixedBerryTartEnjoyer_57
+  - first:
+      213: -4445225474788061729
+    second: MixedBerryTartEnjoyer_58
+  - first:
+      213: 5539915565463691709
+    second: MixedBerryTartEnjoyer_59
+  - first:
+      213: 3340078702677057942
+    second: MixedBerryTartEnjoyer_60
+  - first:
+      213: -6219911279311524315
+    second: MixedBerryTartEnjoyer_61
+  - first:
+      213: 2985411415753398998
+    second: MixedBerryTartEnjoyer_62
+  - first:
+      213: -3313697057187651559
+    second: MixedBerryTartEnjoyer_63
+  - first:
+      213: 97327335797351058
+    second: MixedBerryTartEnjoyer_64
+  - first:
+      213: 3986248398426446516
+    second: MixedBerryTartEnjoyer_65
+  - first:
+      213: -2837100617062117680
+    second: MixedBerryTartEnjoyer_66
+  - first:
+      213: -3907882375444365684
+    second: MixedBerryTartEnjoyer_67
+  - first:
+      213: 4129795311636041736
+    second: MixedBerryTartEnjoyer_68
+  - first:
+      213: -7008027484261997008
+    second: MixedBerryTartEnjoyer_69
+  - first:
+      213: -8587922649462814040
+    second: MixedBerryTartEnjoyer_70
+  - first:
+      213: -9127328257755794667
+    second: MixedBerryTartEnjoyer_71
+  - first:
+      213: -4674698125223242217
+    second: MixedBerryTartEnjoyer_72
+  - first:
+      213: 8534114723650070030
+    second: MixedBerryTartEnjoyer_73
+  - first:
+      213: -5050080260333832650
+    second: MixedBerryTartEnjoyer_74
+  - first:
+      213: 1905000146757548468
+    second: MixedBerryTartEnjoyer_75
+  - first:
+      213: 6276779251670158068
+    second: MixedBerryTartEnjoyer_76
+  - first:
+      213: -4893189864857687478
+    second: MixedBerryTartEnjoyer_77
+  - first:
+      213: 2385778643928663757
+    second: MixedBerryTartEnjoyer_78
+  - first:
+      213: 8690883342739262671
+    second: MixedBerryTartEnjoyer_79
+  - first:
+      213: 8692000130906679719
+    second: MixedBerryTartEnjoyer_80
+  - first:
+      213: 7518087564334285541
+    second: MixedBerryTartEnjoyer_81
+  - first:
+      213: 3851876575284026063
+    second: MixedBerryTartEnjoyer_82
+  - first:
+      213: 6812669961531281431
+    second: MixedBerryTartEnjoyer_83
+  - first:
+      213: -3443446290448394605
+    second: MixedBerryTartEnjoyer_84
+  - first:
+      213: 8238622022084379137
+    second: MixedBerryTartEnjoyer_85
+  - first:
+      213: -3669379284828969674
+    second: MixedBerryTartEnjoyer_86
+  - first:
+      213: -1673776587900086281
+    second: MixedBerryTartEnjoyer_87
+  - first:
+      213: -309180472377361116
+    second: MixedBerryTartEnjoyer_88
+  - first:
+      213: -5922507265150872429
+    second: MixedBerryTartEnjoyer_89
+  - first:
+      213: -5835012127543863509
+    second: MixedBerryTartEnjoyer_90
+  - first:
+      213: 8262925127952082680
+    second: MixedBerryTartEnjoyer_91
+  - first:
+      213: 4718973302757557173
+    second: MixedBerryTartEnjoyer_92
+  - first:
+      213: 394561682447704371
+    second: MixedBerryTartEnjoyer_93
+  - first:
+      213: -7838109165272229885
+    second: MixedBerryTartEnjoyer_94
+  - first:
+      213: 2104838947729693702
+    second: MixedBerryTartEnjoyer_95
+  - first:
+      213: -5524587246752357087
+    second: MixedBerryTartEnjoyer_96
+  - first:
+      213: 2866290222258430023
+    second: MixedBerryTartEnjoyer_97
+  - first:
+      213: -4792232268184948491
+    second: MixedBerryTartEnjoyer_98
+  - first:
+      213: 1336499709626376051
+    second: MixedBerryTartEnjoyer_99
+  - first:
+      213: -2617407451379681780
+    second: MixedBerryTartEnjoyer_100
+  - first:
+      213: 4982565972211736975
+    second: MixedBerryTartEnjoyer_101
+  - first:
+      213: 634852024440124677
+    second: MixedBerryTartEnjoyer_102
+  - first:
+      213: -6899242982025601137
+    second: MixedBerryTartEnjoyer_103
+  - first:
+      213: -3923599110422340571
+    second: MixedBerryTartEnjoyer_104
+  - first:
+      213: 8322814198381959067
+    second: MixedBerryTartEnjoyer_105
+  - first:
+      213: 7746310477765245884
+    second: MixedBerryTartEnjoyer_106
+  - first:
+      213: 4682608705227247937
+    second: MixedBerryTartEnjoyer_107
+  - first:
+      213: 7039636099419940399
+    second: MixedBerryTartEnjoyer_108
+  - first:
+      213: -6564749189319887452
+    second: MixedBerryTartEnjoyer_109
+  - first:
+      213: 1099061801222522976
+    second: MixedBerryTartEnjoyer_110
+  - first:
+      213: -8935045021629438495
+    second: MixedBerryTartEnjoyer_111
+  - first:
+      213: -5675367127988100748
+    second: MixedBerryTartEnjoyer_112
+  - first:
+      213: 159336284459982890
+    second: MixedBerryTartEnjoyer_113
+  - first:
+      213: -659834437481439448
+    second: MixedBerryTartEnjoyer_114
+  - first:
+      213: -4073443694638827276
+    second: MixedBerryTartEnjoyer_115
+  - first:
+      213: 4602081180023179127
+    second: MixedBerryTartEnjoyer_116
+  - first:
+      213: 8122822269338104771
+    second: MixedBerryTartEnjoyer_117
+  - first:
+      213: -737167602480530643
+    second: MixedBerryTartEnjoyer_118
+  - first:
+      213: 4962215618436432686
+    second: MixedBerryTartEnjoyer_119
+  - first:
+      213: -4482599346341482208
+    second: MixedBerryTartEnjoyer_120
+  - first:
+      213: 5797416747189617537
+    second: MixedBerryTartEnjoyer_121
+  - first:
+      213: -3900895931859722329
+    second: MixedBerryTartEnjoyer_122
+  - first:
+      213: 6719127577134995208
+    second: MixedBerryTartEnjoyer_123
+  - first:
+      213: 6448223182738959278
+    second: MixedBerryTartEnjoyer_124
+  - first:
+      213: 7974415096494733787
+    second: MixedBerryTartEnjoyer_125
+  - first:
+      213: -4511860212434330498
+    second: MixedBerryTartEnjoyer_126
+  - first:
+      213: -1879694802237586576
+    second: MixedBerryTartEnjoyer_127
+  - first:
+      213: 617072935433122284
+    second: MixedBerryTartEnjoyer_128
+  - first:
+      213: -524257036890701395
+    second: MixedBerryTartEnjoyer_129
+  - first:
+      213: -1299134540217911443
+    second: MixedBerryTartEnjoyer_130
+  - first:
+      213: -2241461280769136135
+    second: MixedBerryTartEnjoyer_131
+  - first:
+      213: -4371177410535470162
+    second: MixedBerryTartEnjoyer_132
+  - first:
+      213: 1598791300623306
+    second: MixedBerryTartEnjoyer_133
+  - first:
+      213: -3132693426309777619
+    second: MixedBerryTartEnjoyer_134
+  - first:
+      213: 4154708876409154923
+    second: MixedBerryTartEnjoyer_135
+  - first:
+      213: 5259780470366139435
+    second: MixedBerryTartEnjoyer_136
+  - first:
+      213: 5798285822082728143
+    second: MixedBerryTartEnjoyer_137
+  - first:
+      213: 5778191197037433120
+    second: MixedBerryTartEnjoyer_138
+  - first:
+      213: 7031887433979180731
+    second: MixedBerryTartEnjoyer_139
+  - first:
+      213: -8769415811827598962
+    second: MixedBerryTartEnjoyer_140
+  - first:
+      213: -5868231386929250170
+    second: MixedBerryTartEnjoyer_141
+  - first:
+      213: -3582785183090738254
+    second: MixedBerryTartEnjoyer_142
+  - first:
+      213: 8705128767457924026
+    second: MixedBerryTartEnjoyer_143
+  - first:
+      213: -4367477885960967164
+    second: MixedBerryTartEnjoyer_144
+  - first:
+      213: 6141141237013886700
+    second: MixedBerryTartEnjoyer_145
+  - first:
+      213: 2341356279364452104
+    second: MixedBerryTartEnjoyer_146
+  - first:
+      213: 7869241994943587470
+    second: MixedBerryTartEnjoyer_147
+  - first:
+      213: 2061089645661377022
+    second: MixedBerryTartEnjoyer_148
+  - first:
+      213: -1688768357766923913
+    second: MixedBerryTartEnjoyer_149
+  - first:
+      213: 439192545935577273
+    second: MixedBerryTartEnjoyer_150
+  - first:
+      213: -3514101160041601279
+    second: MixedBerryTartEnjoyer_151
+  - first:
+      213: -8971428580287957758
+    second: MixedBerryTartEnjoyer_152
+  - first:
+      213: -4619015478678214873
+    second: MixedBerryTartEnjoyer_153
+  - first:
+      213: 5114871471934472823
+    second: MixedBerryTartEnjoyer_154
+  - first:
+      213: 8042552371333439208
+    second: MixedBerryTartEnjoyer_155
+  - first:
+      213: 4753052304112210066
+    second: MixedBerryTartEnjoyer_156
+  - first:
+      213: 4745818783371599130
+    second: MixedBerryTartEnjoyer_157
+  - first:
+      213: 1331463434714536867
+    second: MixedBerryTartEnjoyer_158
+  - first:
+      213: 8239799540345177489
+    second: MixedBerryTartEnjoyer_159
+  - first:
+      213: 8775004672283144462
+    second: MixedBerryTartEnjoyer_160
+  - first:
+      213: 1924548254667509511
+    second: MixedBerryTartEnjoyer_161
+  - first:
+      213: 7381300761031716532
+    second: MixedBerryTartEnjoyer_162
+  - first:
+      213: 9205153630759282487
+    second: MixedBerryTartEnjoyer_163
+  - first:
+      213: 4126805552250933089
+    second: MixedBerryTartEnjoyer_164
+  - first:
+      213: -2702482629817863553
+    second: MixedBerryTartEnjoyer_165
+  - first:
+      213: -4629227643049897918
+    second: MixedBerryTartEnjoyer_166
+  - first:
+      213: -5329172471758932716
+    second: MixedBerryTartEnjoyer_167
+  - first:
+      213: -356035819470924528
+    second: MixedBerryTartEnjoyer_168
+  - first:
+      213: 4180210233737654479
+    second: MixedBerryTartEnjoyer_169
+  - first:
+      213: -673202883365338580
+    second: MixedBerryTartEnjoyer_170
+  - first:
+      213: -7806629610310477399
+    second: MixedBerryTartEnjoyer_171
+  - first:
+      213: 5930403121346152796
+    second: MixedBerryTartEnjoyer_172
+  - first:
+      213: 7111159400761970963
+    second: MixedBerryTartEnjoyer_173
+  - first:
+      213: 7604753000676177146
+    second: MixedBerryTartEnjoyer_174
+  - first:
+      213: -756293544297324228
+    second: MixedBerryTartEnjoyer_175
+  - first:
+      213: 4331906905672770916
+    second: MixedBerryTartEnjoyer_176
+  - first:
+      213: 1917513067533297780
+    second: MixedBerryTartEnjoyer_177
+  - first:
+      213: -419167401074610750
+    second: MixedBerryTartEnjoyer_178
+  - first:
+      213: 4776447042763529448
+    second: MixedBerryTartEnjoyer_179
+  - first:
+      213: -5108400555074601158
+    second: MixedBerryTartEnjoyer_180
+  - first:
+      213: -4926602245275875389
+    second: MixedBerryTartEnjoyer_181
+  - first:
+      213: -7301323649840557030
+    second: MixedBerryTartEnjoyer_182
+  - first:
+      213: -6490107693209091287
+    second: MixedBerryTartEnjoyer_183
+  - first:
+      213: -6473506448785398539
+    second: MixedBerryTartEnjoyer_184
+  - first:
+      213: 4384209525600325451
+    second: MixedBerryTartEnjoyer_185
+  - first:
+      213: -8962864836409159104
+    second: MixedBerryTartEnjoyer_186
+  - first:
+      213: 1403946995633760635
+    second: MixedBerryTartEnjoyer_187
+  - first:
+      213: 7957469104041762917
+    second: MixedBerryTartEnjoyer_188
+  - first:
+      213: -5266079597544510368
+    second: MixedBerryTartEnjoyer_189
+  - first:
+      213: -433061542696365144
+    second: MixedBerryTartEnjoyer_190
+  - first:
+      213: 719830885326727443
+    second: MixedBerryTartEnjoyer_191
+  - first:
+      213: -5147877112070227893
+    second: MixedBerryTartEnjoyer_192
+  - first:
+      213: -8553315593377638903
+    second: MixedBerryTartEnjoyer_193
+  - first:
+      213: -6173311424973869852
+    second: MixedBerryTartEnjoyer_194
+  - first:
+      213: 2302439755030082210
+    second: MixedBerryTartEnjoyer_195
+  - first:
+      213: 6525383795332202059
+    second: MixedBerryTartEnjoyer_196
+  - first:
+      213: 172370899716191394
+    second: MixedBerryTartEnjoyer_197
+  - first:
+      213: -5522830024260647483
+    second: MixedBerryTartEnjoyer_198
+  - first:
+      213: -2346011375549781135
+    second: MixedBerryTartEnjoyer_199
+  - first:
+      213: -6960074410649938999
+    second: MixedBerryTartEnjoyer_200
+  - first:
+      213: 8267962383660118754
+    second: MixedBerryTartEnjoyer_201
+  - first:
+      213: -4569242706893461820
+    second: MixedBerryTartEnjoyer_202
+  - first:
+      213: 7282088275843309005
+    second: MixedBerryTartEnjoyer_203
+  - first:
+      213: -4700976030745403015
+    second: MixedBerryTartEnjoyer_204
+  - first:
+      213: -4251246912254128571
+    second: MixedBerryTartEnjoyer_205
+  - first:
+      213: 2955048970661743948
+    second: MixedBerryTartEnjoyer_206
+  - first:
+      213: 4426839223286315801
+    second: MixedBerryTartEnjoyer_207
+  - first:
+      213: -7369269995087101004
+    second: MixedBerryTartEnjoyer_208
+  - first:
+      213: -6611231388478596469
+    second: MixedBerryTartEnjoyer_209
+  - first:
+      213: 6854797326117219787
+    second: MixedBerryTartEnjoyer_210
+  - first:
+      213: 8976370153291419667
+    second: MixedBerryTartEnjoyer_211
+  - first:
+      213: 4682689955711877957
+    second: MixedBerryTartEnjoyer_212
+  - first:
+      213: -7676224410602045123
+    second: MixedBerryTartEnjoyer_213
+  - first:
+      213: 2309126946159708890
+    second: MixedBerryTartEnjoyer_214
+  - first:
+      213: -952985293921035646
+    second: MixedBerryTartEnjoyer_215
+  - first:
+      213: 8224393803755591627
+    second: MixedBerryTartEnjoyer_216
+  - first:
+      213: 2190360374245736700
+    second: MixedBerryTartEnjoyer_217
+  - first:
+      213: -7434793204434423479
+    second: MixedBerryTartEnjoyer_218
+  - first:
+      213: 3449198130191737923
+    second: MixedBerryTartEnjoyer_219
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9330dd44f74080800000000000000
+      internalID: -9203118698465615999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e307f053242a9300800000000000000
+      internalID: 259559662628045796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220c9e757a988edb0800000000000000
+      internalID: -4762405254116818910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a39ea5821193be0800000000000000
+      internalID: -1497146536102380940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046bfd1d580484f0800000000000000
+      internalID: -827527235501333491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335bb05da3df7310800000000000000
+      internalID: 1405074350100140858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caea137a4059ca40800000000000000
+      internalID: 5388926709814454981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc3371da1b7e16d0800000000000000
+      internalID: -3017839345178297143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a813580ecc8ce00800000000000000
+      internalID: 1065326576552479297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de0647bbe9c962d0800000000000000
+      internalID: -3284872438960746800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178e9f5c798beae70800000000000000
+      internalID: 9128436456727636081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba7dbf2c7136a20800000000000000
+      internalID: 3054311098503637913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc78ad0aa1903b0800000000000000
+      internalID: -5545872187966632769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51946e9f3fcb6b5f0800000000000000
+      internalID: -741197332600174315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b9df68fbb22ad50800000000000000
+      internalID: 6747003293357939467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278b1163f42f06a0800000000000000
+      internalID: -6480920711038007519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2408f32db03f86c0800000000000000
+      internalID: -4139035943619787731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62a7bf87947d510800000000000000
+      internalID: 1573807378753267370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdd07af3d594fe80800000000000000
+      internalID: -8145721088334045705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327baf2609778c040800000000000000
+      internalID: 4668112475789113123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca09c551f823b810800000000000000
+      internalID: 1779811294732946127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7641e0e5c4894770800000000000000
+      internalID: 8595547349229586043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a48582906556fd30800000000000000
+      internalID: 4464849953847870631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0309992ebb14960800000000000000
+      internalID: 7584549829381992635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24164eaaf5ecf4670800000000000000
+      internalID: 8525259529919947074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b10263b8da6bf0800000000000000
+      internalID: -330213357703284302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace41034fccaf72c0800000000000000
+      internalID: -4431633502126911798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d740269d8768780800000000000000
+      internalID: -8681118356662354655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620f570076e248ff0800000000000000
+      internalID: -34851877187882970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cd79b7e1123d000800000000000000
+      internalID: 59427634892233817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a1a322d0168260800000000000000
+      internalID: 7099380357323139497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c454bd335e57860800000000000000
+      internalID: 7527174363104496661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ad5eceb5333c740800000000000000
+      internalID: 5171033267060988537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e0ee58a2a63cc10800000000000000
+      internalID: 2072616984388701837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6f86c74ae84e6f0800000000000000
+      internalID: -656242808576215370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552df321420864910800000000000000
+      internalID: 1821283991731294805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc59235644f6e70800000000000000
+      internalID: 9110575772624867299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24122ff5285953be0800000000000000
+      internalID: -1498126913842831038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca51446b11bf8880800000000000000
+      internalID: -8606465631677490490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4905c8b568a3bda0800000000000000
+      internalID: -5930211129471727286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3654f91e37c4ed0800000000000000
+      internalID: -2428438686182579230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257cf19041524d520800000000000000
+      internalID: 2725844442448643922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdbb519936c5dfd0800000000000000
+      internalID: -2317728482658107965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1cbc98707e75e10800000000000000
+      internalID: 2186470163674284505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54532d928554a4e0800000000000000
+      internalID: -1971356717410986913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73601fc15b0ecb1d0800000000000000
+      internalID: -3333542555681749449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcabd5be872e39b80800000000000000
+      internalID: -8389112671888360753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7316ab7a7b764d0800000000000000
+      internalID: -3141340284053276724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdfe4e1f893c2cd0800000000000000
+      internalID: -2581625199538537026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea1bb2df4b406760800000000000000
+      internalID: 7449036589880777453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d729b00639809fc50800000000000000
+      internalID: 6699395349754909309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5332a76717fd25bb0800000000000000
+      internalID: -4948647362114739403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da13376567aa3e0800000000000000
+      internalID: -2041689367387198107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c7e3914ce32760800000000000000
+      internalID: 7432043576489920809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f652623baa9fce0800000000000000
+      internalID: -1370876925141749927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9febc00f321d40800000000000000
+      internalID: 5553570563155271039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dba16e04db736c0800000000000000
+      internalID: -4163651244044665482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e327dacd5280a480800000000000000
+      internalID: -8889962325082692640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd8db48bf26f42c0800000000000000
+      internalID: -4445225474788061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1ee15eadbb1ec40800000000000000
+      internalID: 5539915565463691709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e9e232e75a5e20800000000000000
+      internalID: 3340078702677057942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ee03e55af6ea9a0800000000000000
+      internalID: -6219911279311524315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da90608ddf4e6920800000000000000
+      internalID: 2985411415753398998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a21d45126302d0800000000000000
+      internalID: -3313697057187651559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e22d32b6c95100800000000000000
+      internalID: 97327335797351058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba9dae5ccff15730800000000000000
+      internalID: 3986248398426446516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de88f7350890a8d0800000000000000
+      internalID: -2837100617062117680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ef0a33fa964c9c0800000000000000
+      internalID: -3907882375444365684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800d32194faff4930800000000000000
+      internalID: 4129795311636041736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036a368122c7ebe90800000000000000
+      internalID: -7008027484261997008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aacc30e9d191d880800000000000000
+      internalID: -8587922649462814040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513b418ee47355180800000000000000
+      internalID: -9127328257755794667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71652ed92d2202fb0800000000000000
+      internalID: -4674698125223242217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06e79f10244f6670800000000000000
+      internalID: 8534114723650070030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636f69b72c28ae9b0800000000000000
+      internalID: -5050080260333832650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9fc845a8bef6a10800000000000000
+      internalID: 1905000146757548468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa875d39799b1750800000000000000
+      internalID: 6276779251670158068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aad9e3eb5e71cb0800000000000000
+      internalID: -4893189864857687478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6c418490dfb1120800000000000000
+      internalID: 2385778643928663757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc455c9a583c9870800000000000000
+      internalID: 8690883342739262671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9675e111030a870800000000000000
+      internalID: 8692000130906679719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e24d66aecc955860800000000000000
+      internalID: 7518087564334285541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcad37c465d947530800000000000000
+      internalID: 3851876575284026063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710db052c377b8e50800000000000000
+      internalID: 6812669961531281431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396dfaec7db6630d0800000000000000
+      internalID: -3443446290448394605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102cc093417755270800000000000000
+      internalID: 8238622022084379137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a79d4bfeb31dc0800000000000000
+      internalID: -3669379284828969674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f799d4bf0d85c8e0800000000000000
+      internalID: -1673776587900086281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db57c9ff195bbf0800000000000000
+      internalID: -309180472377361116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394130965070fcda0800000000000000
+      internalID: -5922507265150872429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d6ad926fd50fa0800000000000000
+      internalID: -5835012127543863509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ab3100aecba270800000000000000
+      internalID: 8262925127952082680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38a6777392d7140800000000000000
+      internalID: 4718973302757557173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331a64c72c3c97500800000000000000
+      internalID: 394561682447704371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30817350e31793390800000000000000
+      internalID: -7838109165272229885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cd5dcfed3e53d10800000000000000
+      internalID: 2104838947729693702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1252caa6b29b453b0800000000000000
+      internalID: -5524587246752357087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740a3e855cb17c720800000000000000
+      internalID: 2866290222258430023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0fba574229e7db0800000000000000
+      internalID: -4792232268184948491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f51b2a7633c8210800000000000000
+      internalID: 1336499709626376051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06bd046ac91dabd0800000000000000
+      internalID: -2617407451379681780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8121ab5a51a52540800000000000000
+      internalID: 4982565972211736975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505f0b97d827fc800800000000000000
+      internalID: 634852024440124677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd145cf07f040a0800000000000000
+      internalID: -6899242982025601137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdc3ea5639c89c0800000000000000
+      internalID: -3923599110422340571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b975222da63908370800000000000000
+      internalID: 8322814198381959067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb751b765c608b60800000000000000
+      internalID: 7746310477765245884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d831dec7fbf040800000000000000
+      internalID: 4682608705227247937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2621fd1cbfc1b160800000000000000
+      internalID: 7039636099419940399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5fd03d46355e4a0800000000000000
+      internalID: -6564749189319887452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c11892e6a04f00800000000000000
+      internalID: 1099061801222522976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5a7a984e7500480800000000000000
+      internalID: -8935045021629438495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471275e9aab0d31b0800000000000000
+      internalID: -5675367127988100748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20611ba183163200800000000000000
+      internalID: 159336284459982890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f5957331cc7d6f0800000000000000
+      internalID: -659834437481439448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f87f70ba883877c0800000000000000
+      internalID: -4073443694638827276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777caca4370eddf30800000000000000
+      internalID: 4602081180023179127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b78141df0ab070800000000000000
+      internalID: 8122822269338104771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bb832a8fd05c5f0800000000000000
+      internalID: -737167602480530643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e238cc360d45dd440800000000000000
+      internalID: 4962215618436432686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021fae2f4ab9ac1c0800000000000000
+      internalID: -4482599346341482208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1834327c0df847050800000000000000
+      internalID: 5797416747189617537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af1cbb51db3dd9c0800000000000000
+      internalID: -3900895931859722329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80799a39ee22f3d50800000000000000
+      internalID: 6719127577134995208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab289f02d0bc7950800000000000000
+      internalID: 6448223182738959278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9b41ea740daae60800000000000000
+      internalID: 7974415096494733787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c12a9aa07a261c0800000000000000
+      internalID: -4511860212434330498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0730b72598bf9e5e0800000000000000
+      internalID: -1879694802237586576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1bffcb098409800800000000000000
+      internalID: 617072935433122284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da18129a00779b8f0800000000000000
+      internalID: -524257036890701395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67fedec40c88fde0800000000000000
+      internalID: -1299134540217911443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a6f547dab4e0e0800000000000000
+      internalID: -2241461280769136135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab42dafd457653c0800000000000000
+      internalID: -4371177410535470162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2b8b971ea50000800000000000000
+      internalID: 1598791300623306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ba9e2def6684d0800000000000000
+      internalID: -3132693426309777619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6da783e5bd78a930800000000000000
+      internalID: 4154708876409154923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24f5b4687e7ef840800000000000000
+      internalID: 5259780470366139435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0cc6b0c36a77050800000000000000
+      internalID: 5798285822082728143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02194bf8742403050800000000000000
+      internalID: 5778191197037433120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6bcda5d58469160800000000000000
+      internalID: 7031887433979180731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89725018c6cc4680800000000000000
+      internalID: -8769415811827598962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c84215aadf8ea0800000000000000
+      internalID: -5868231386929250170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbf75fbbd3674ec0800000000000000
+      internalID: -3582785183090738254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31d540e74dec870800000000000000
+      internalID: 8705128767457924026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c2ceaa00a9363c0800000000000000
+      internalID: -4367477885960967164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce637bbfa67b93550800000000000000
+      internalID: 6141141237013886700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff52c812b2e7020800000000000000
+      internalID: 2341356279364452104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e230c6e9253d60800000000000000
+      internalID: 7869241994943587470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1d1e3dc167a9c10800000000000000
+      internalID: 2061089645661377022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f167402a4098e0800000000000000
+      internalID: -1688768357766923913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b05d782b43581600800000000000000
+      internalID: 439192545935577273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107aeea0d976b3fc0800000000000000
+      internalID: -3514101160041601279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20536282d351f7380800000000000000
+      internalID: -8971428580287957758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727aa5d05e5f5efb0800000000000000
+      internalID: -4619015478678214873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7720f64018cabf640800000000000000
+      internalID: 5114871471934472823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1ecc35c2ec9f60800000000000000
+      internalID: 8042552371333439208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_156
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d57943eb36f140800000000000000
+      internalID: 4753052304112210066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d9d3ff9098cd140800000000000000
+      internalID: 4745818783371599130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd49180fe4a7210800000000000000
+      internalID: 1331463434714536867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19583be8606a95270800000000000000
+      internalID: 8239799540345177489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0174d9e14417c970800000000000000
+      internalID: 8775004672283144462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f0e80e07e55ba10800000000000000
+      internalID: 1924548254667509511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bead913fe5af6660800000000000000
+      internalID: 7381300761031716532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ed48c4764fbf70800000000000000
+      internalID: 9205153630759282487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fc607f8cb554930800000000000000
+      internalID: 4126805552250933089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72fa06dd5ade7ad0800000000000000
+      internalID: -2702482629817863553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240979f3cfda1cfb0800000000000000
+      internalID: -4629227643049897918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415b4024fd9fa06b0800000000000000
+      internalID: -5329172471758932716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015de1dfe4b1f0bf0800000000000000
+      internalID: -356035819470924528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b2645f07130a30800000000000000
+      internalID: 4180210233737654479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c228d3b5b8d48a6f0800000000000000
+      internalID: -673202883365338580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d5601bb749a390800000000000000
+      internalID: -7806629610310477399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5984bed7360d4250800000000000000
+      internalID: 5930403121346152796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311d8976cc9efa260800000000000000
+      internalID: 7111159400761970963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b3e9ff82898960800000000000000
+      internalID: 7604753000676177146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31ac3a470b1185f0800000000000000
+      internalID: -756293544297324228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465efa811660e1c30800000000000000
+      internalID: 4331906905672770916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ed7ab9ff5c9a10800000000000000
+      internalID: 1917513067533297780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd26853871de2af0800000000000000
+      internalID: -419167401074610750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec92685749594240800000000000000
+      internalID: 4776447042763529448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fbe58b2c05b19b0800000000000000
+      internalID: -5108400555074601158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c780b43c5131abb0800000000000000
+      internalID: -4926602245275875389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14581513dc7caa90800000000000000
+      internalID: -7301323649840557030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9230e3860718ee5a0800000000000000
+      internalID: -6490107693209091287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f422f4de2c7926a0800000000000000
+      internalID: -6473506448785398539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f8a42c557d7dc30800000000000000
+      internalID: 4384209525600325451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421ef72be18d9380800000000000000
+      internalID: -8962864836409159104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792a36aa52db7310800000000000000
+      internalID: 1403946995633760635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602e895dfb9e6e60800000000000000
+      internalID: 7957469104041762917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6d65c1802be6b0800000000000000
+      internalID: -5266079597544510368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a353b542d47df9f0800000000000000
+      internalID: -433061542696365144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319214a506a5df900800000000000000
+      internalID: 719830885326727443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b0bb8a011f88b0800000000000000
+      internalID: -5147877112070227893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9069ae409c48c4980800000000000000
+      internalID: -8553315593377638903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec629277fdf35aa0800000000000000
+      internalID: -6173311424973869852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23e4322c8e3ff10800000000000000
+      internalID: 2302439755030082210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebdd72df1de8a50800000000000000
+      internalID: 6525383795332202059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4b2378b62646200800000000000000
+      internalID: 172370899716191394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c50519aa57fa53b0800000000000000
+      internalID: -5522830024260647483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6459651b417fd0800000000000000
+      internalID: -2346011375549781135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39ce61339d86f90800000000000000
+      internalID: -6960074410649938999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e27a5e7bf3bdb270800000000000000
+      internalID: 8267962383660118754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6221b87f9c690c0800000000000000
+      internalID: -4569242706893461820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5da864bc2f0560800000000000000
+      internalID: 7282088275843309005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9716bc5f437c2ceb0800000000000000
+      internalID: -4700976030745403015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ecd9615798005c0800000000000000
+      internalID: -4251246912254128571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4d2ed161720920800000000000000
+      internalID: 2955048970661743948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b3fb5b1da4f6d30800000000000000
+      internalID: 4426839223286315801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b383e8cbf71bb990800000000000000
+      internalID: -7369269995087101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a12d974103044a0800000000000000
+      internalID: -6611231388478596469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda38e89d1212f50800000000000000
+      internalID: 6854797326117219787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109a577819729c70800000000000000
+      internalID: 8976370153291419667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430f7b64b14cf040800000000000000
+      internalID: 4682689955711877957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3102e5a192987590800000000000000
+      internalID: -7676224410602045123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac12729baab0020800000000000000
+      internalID: 2309126946159708890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a5aaf9ce056c2f0800000000000000
+      internalID: -952985293921035646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc796cdf69ae22270800000000000000
+      internalID: 8224393803755591627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MixedBerryTartEnjoyer_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf04205c729b56e10800000000000000
+      internalID: 2190360374245736700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 56ed9020f458a6a40b94cc1093c7efe3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MixedBerryTartEnjoyer_0: -9203118698465615999
+      MixedBerryTartEnjoyer_1: 259559662628045796
+      MixedBerryTartEnjoyer_10: 9128436456727636081
+      MixedBerryTartEnjoyer_100: -2617407451379681780
+      MixedBerryTartEnjoyer_101: 4982565972211736975
+      MixedBerryTartEnjoyer_102: 634852024440124677
+      MixedBerryTartEnjoyer_103: -6899242982025601137
+      MixedBerryTartEnjoyer_104: -3923599110422340571
+      MixedBerryTartEnjoyer_105: 8322814198381959067
+      MixedBerryTartEnjoyer_106: 7746310477765245884
+      MixedBerryTartEnjoyer_107: 4682608705227247937
+      MixedBerryTartEnjoyer_108: 7039636099419940399
+      MixedBerryTartEnjoyer_109: -6564749189319887452
+      MixedBerryTartEnjoyer_11: 3054311098503637913
+      MixedBerryTartEnjoyer_110: 1099061801222522976
+      MixedBerryTartEnjoyer_111: -8935045021629438495
+      MixedBerryTartEnjoyer_112: -5675367127988100748
+      MixedBerryTartEnjoyer_113: 159336284459982890
+      MixedBerryTartEnjoyer_114: -659834437481439448
+      MixedBerryTartEnjoyer_115: -4073443694638827276
+      MixedBerryTartEnjoyer_116: 4602081180023179127
+      MixedBerryTartEnjoyer_117: 8122822269338104771
+      MixedBerryTartEnjoyer_118: -737167602480530643
+      MixedBerryTartEnjoyer_119: 4962215618436432686
+      MixedBerryTartEnjoyer_12: -5545872187966632769
+      MixedBerryTartEnjoyer_120: -4482599346341482208
+      MixedBerryTartEnjoyer_121: 5797416747189617537
+      MixedBerryTartEnjoyer_122: -3900895931859722329
+      MixedBerryTartEnjoyer_123: 6719127577134995208
+      MixedBerryTartEnjoyer_124: 6448223182738959278
+      MixedBerryTartEnjoyer_125: 7974415096494733787
+      MixedBerryTartEnjoyer_126: -4511860212434330498
+      MixedBerryTartEnjoyer_127: -1879694802237586576
+      MixedBerryTartEnjoyer_128: 617072935433122284
+      MixedBerryTartEnjoyer_129: -524257036890701395
+      MixedBerryTartEnjoyer_13: -741197332600174315
+      MixedBerryTartEnjoyer_130: -1299134540217911443
+      MixedBerryTartEnjoyer_131: -2241461280769136135
+      MixedBerryTartEnjoyer_132: -4371177410535470162
+      MixedBerryTartEnjoyer_133: 1598791300623306
+      MixedBerryTartEnjoyer_134: -3132693426309777619
+      MixedBerryTartEnjoyer_135: 4154708876409154923
+      MixedBerryTartEnjoyer_136: 5259780470366139435
+      MixedBerryTartEnjoyer_137: 5798285822082728143
+      MixedBerryTartEnjoyer_138: 5778191197037433120
+      MixedBerryTartEnjoyer_139: 7031887433979180731
+      MixedBerryTartEnjoyer_14: 6747003293357939467
+      MixedBerryTartEnjoyer_140: -8769415811827598962
+      MixedBerryTartEnjoyer_141: -5868231386929250170
+      MixedBerryTartEnjoyer_142: -3582785183090738254
+      MixedBerryTartEnjoyer_143: 8705128767457924026
+      MixedBerryTartEnjoyer_144: -4367477885960967164
+      MixedBerryTartEnjoyer_145: 6141141237013886700
+      MixedBerryTartEnjoyer_146: 2341356279364452104
+      MixedBerryTartEnjoyer_147: 7869241994943587470
+      MixedBerryTartEnjoyer_148: 2061089645661377022
+      MixedBerryTartEnjoyer_149: -1688768357766923913
+      MixedBerryTartEnjoyer_15: -6480920711038007519
+      MixedBerryTartEnjoyer_150: 439192545935577273
+      MixedBerryTartEnjoyer_151: -3514101160041601279
+      MixedBerryTartEnjoyer_152: -8971428580287957758
+      MixedBerryTartEnjoyer_153: -4619015478678214873
+      MixedBerryTartEnjoyer_154: 5114871471934472823
+      MixedBerryTartEnjoyer_155: 8042552371333439208
+      MixedBerryTartEnjoyer_156: 4753052304112210066
+      MixedBerryTartEnjoyer_157: 4745818783371599130
+      MixedBerryTartEnjoyer_158: 1331463434714536867
+      MixedBerryTartEnjoyer_159: 8239799540345177489
+      MixedBerryTartEnjoyer_16: -4139035943619787731
+      MixedBerryTartEnjoyer_160: 8775004672283144462
+      MixedBerryTartEnjoyer_161: 1924548254667509511
+      MixedBerryTartEnjoyer_162: 7381300761031716532
+      MixedBerryTartEnjoyer_163: 9205153630759282487
+      MixedBerryTartEnjoyer_164: 4126805552250933089
+      MixedBerryTartEnjoyer_165: -2702482629817863553
+      MixedBerryTartEnjoyer_166: -4629227643049897918
+      MixedBerryTartEnjoyer_167: -5329172471758932716
+      MixedBerryTartEnjoyer_168: -356035819470924528
+      MixedBerryTartEnjoyer_169: 4180210233737654479
+      MixedBerryTartEnjoyer_17: 1573807378753267370
+      MixedBerryTartEnjoyer_170: -673202883365338580
+      MixedBerryTartEnjoyer_171: -7806629610310477399
+      MixedBerryTartEnjoyer_172: 5930403121346152796
+      MixedBerryTartEnjoyer_173: 7111159400761970963
+      MixedBerryTartEnjoyer_174: 7604753000676177146
+      MixedBerryTartEnjoyer_175: -756293544297324228
+      MixedBerryTartEnjoyer_176: 4331906905672770916
+      MixedBerryTartEnjoyer_177: 1917513067533297780
+      MixedBerryTartEnjoyer_178: -419167401074610750
+      MixedBerryTartEnjoyer_179: 4776447042763529448
+      MixedBerryTartEnjoyer_18: -8145721088334045705
+      MixedBerryTartEnjoyer_180: -5108400555074601158
+      MixedBerryTartEnjoyer_181: -4926602245275875389
+      MixedBerryTartEnjoyer_182: -7301323649840557030
+      MixedBerryTartEnjoyer_183: -6490107693209091287
+      MixedBerryTartEnjoyer_184: -6473506448785398539
+      MixedBerryTartEnjoyer_185: 4384209525600325451
+      MixedBerryTartEnjoyer_186: -8962864836409159104
+      MixedBerryTartEnjoyer_187: 1403946995633760635
+      MixedBerryTartEnjoyer_188: 7957469104041762917
+      MixedBerryTartEnjoyer_189: -5266079597544510368
+      MixedBerryTartEnjoyer_19: 4668112475789113123
+      MixedBerryTartEnjoyer_190: -433061542696365144
+      MixedBerryTartEnjoyer_191: 719830885326727443
+      MixedBerryTartEnjoyer_192: -5147877112070227893
+      MixedBerryTartEnjoyer_193: -8553315593377638903
+      MixedBerryTartEnjoyer_194: -6173311424973869852
+      MixedBerryTartEnjoyer_195: 2302439755030082210
+      MixedBerryTartEnjoyer_196: 6525383795332202059
+      MixedBerryTartEnjoyer_197: 172370899716191394
+      MixedBerryTartEnjoyer_198: -5522830024260647483
+      MixedBerryTartEnjoyer_199: -2346011375549781135
+      MixedBerryTartEnjoyer_2: -4762405254116818910
+      MixedBerryTartEnjoyer_20: 1779811294732946127
+      MixedBerryTartEnjoyer_200: -6960074410649938999
+      MixedBerryTartEnjoyer_201: 8267962383660118754
+      MixedBerryTartEnjoyer_202: -4569242706893461820
+      MixedBerryTartEnjoyer_203: 7282088275843309005
+      MixedBerryTartEnjoyer_204: -4700976030745403015
+      MixedBerryTartEnjoyer_205: -4251246912254128571
+      MixedBerryTartEnjoyer_206: 2955048970661743948
+      MixedBerryTartEnjoyer_207: 4426839223286315801
+      MixedBerryTartEnjoyer_208: -7369269995087101004
+      MixedBerryTartEnjoyer_209: -6611231388478596469
+      MixedBerryTartEnjoyer_21: 8595547349229586043
+      MixedBerryTartEnjoyer_210: 6854797326117219787
+      MixedBerryTartEnjoyer_211: 8976370153291419667
+      MixedBerryTartEnjoyer_212: 4682689955711877957
+      MixedBerryTartEnjoyer_213: -7676224410602045123
+      MixedBerryTartEnjoyer_214: 2309126946159708890
+      MixedBerryTartEnjoyer_215: -952985293921035646
+      MixedBerryTartEnjoyer_216: 8224393803755591627
+      MixedBerryTartEnjoyer_217: 2190360374245736700
+      MixedBerryTartEnjoyer_22: 4464849953847870631
+      MixedBerryTartEnjoyer_23: 7584549829381992635
+      MixedBerryTartEnjoyer_24: 8525259529919947074
+      MixedBerryTartEnjoyer_25: -330213357703284302
+      MixedBerryTartEnjoyer_26: -4431633502126911798
+      MixedBerryTartEnjoyer_27: -8681118356662354655
+      MixedBerryTartEnjoyer_28: -34851877187882970
+      MixedBerryTartEnjoyer_29: 59427634892233817
+      MixedBerryTartEnjoyer_3: -1497146536102380940
+      MixedBerryTartEnjoyer_30: 7099380357323139497
+      MixedBerryTartEnjoyer_31: 7527174363104496661
+      MixedBerryTartEnjoyer_32: 5171033267060988537
+      MixedBerryTartEnjoyer_33: 2072616984388701837
+      MixedBerryTartEnjoyer_34: -656242808576215370
+      MixedBerryTartEnjoyer_35: 1821283991731294805
+      MixedBerryTartEnjoyer_36: 9110575772624867299
+      MixedBerryTartEnjoyer_37: -1498126913842831038
+      MixedBerryTartEnjoyer_38: -8606465631677490490
+      MixedBerryTartEnjoyer_39: -5930211129471727286
+      MixedBerryTartEnjoyer_4: -827527235501333491
+      MixedBerryTartEnjoyer_40: -2428438686182579230
+      MixedBerryTartEnjoyer_41: 2725844442448643922
+      MixedBerryTartEnjoyer_42: -2317728482658107965
+      MixedBerryTartEnjoyer_43: 2186470163674284505
+      MixedBerryTartEnjoyer_44: -1971356717410986913
+      MixedBerryTartEnjoyer_45: -3333542555681749449
+      MixedBerryTartEnjoyer_46: -8389112671888360753
+      MixedBerryTartEnjoyer_47: -3141340284053276724
+      MixedBerryTartEnjoyer_48: -2581625199538537026
+      MixedBerryTartEnjoyer_49: 7449036589880777453
+      MixedBerryTartEnjoyer_5: 1405074350100140858
+      MixedBerryTartEnjoyer_50: 6699395349754909309
+      MixedBerryTartEnjoyer_51: -4948647362114739403
+      MixedBerryTartEnjoyer_52: -2041689367387198107
+      MixedBerryTartEnjoyer_53: 7432043576489920809
+      MixedBerryTartEnjoyer_54: -1370876925141749927
+      MixedBerryTartEnjoyer_55: 5553570563155271039
+      MixedBerryTartEnjoyer_56: -4163651244044665482
+      MixedBerryTartEnjoyer_57: -8889962325082692640
+      MixedBerryTartEnjoyer_58: -4445225474788061729
+      MixedBerryTartEnjoyer_59: 5539915565463691709
+      MixedBerryTartEnjoyer_6: 5388926709814454981
+      MixedBerryTartEnjoyer_60: 3340078702677057942
+      MixedBerryTartEnjoyer_61: -6219911279311524315
+      MixedBerryTartEnjoyer_62: 2985411415753398998
+      MixedBerryTartEnjoyer_63: -3313697057187651559
+      MixedBerryTartEnjoyer_64: 97327335797351058
+      MixedBerryTartEnjoyer_65: 3986248398426446516
+      MixedBerryTartEnjoyer_66: -2837100617062117680
+      MixedBerryTartEnjoyer_67: -3907882375444365684
+      MixedBerryTartEnjoyer_68: 4129795311636041736
+      MixedBerryTartEnjoyer_69: -7008027484261997008
+      MixedBerryTartEnjoyer_7: -3017839345178297143
+      MixedBerryTartEnjoyer_70: -8587922649462814040
+      MixedBerryTartEnjoyer_71: -9127328257755794667
+      MixedBerryTartEnjoyer_72: -4674698125223242217
+      MixedBerryTartEnjoyer_73: 8534114723650070030
+      MixedBerryTartEnjoyer_74: -5050080260333832650
+      MixedBerryTartEnjoyer_75: 1905000146757548468
+      MixedBerryTartEnjoyer_76: 6276779251670158068
+      MixedBerryTartEnjoyer_77: -4893189864857687478
+      MixedBerryTartEnjoyer_78: 2385778643928663757
+      MixedBerryTartEnjoyer_79: 8690883342739262671
+      MixedBerryTartEnjoyer_8: 1065326576552479297
+      MixedBerryTartEnjoyer_80: 8692000130906679719
+      MixedBerryTartEnjoyer_81: 7518087564334285541
+      MixedBerryTartEnjoyer_82: 3851876575284026063
+      MixedBerryTartEnjoyer_83: 6812669961531281431
+      MixedBerryTartEnjoyer_84: -3443446290448394605
+      MixedBerryTartEnjoyer_85: 8238622022084379137
+      MixedBerryTartEnjoyer_86: -3669379284828969674
+      MixedBerryTartEnjoyer_87: -1673776587900086281
+      MixedBerryTartEnjoyer_88: -309180472377361116
+      MixedBerryTartEnjoyer_89: -5922507265150872429
+      MixedBerryTartEnjoyer_9: -3284872438960746800
+      MixedBerryTartEnjoyer_90: -5835012127543863509
+      MixedBerryTartEnjoyer_91: 8262925127952082680
+      MixedBerryTartEnjoyer_92: 4718973302757557173
+      MixedBerryTartEnjoyer_93: 394561682447704371
+      MixedBerryTartEnjoyer_94: -7838109165272229885
+      MixedBerryTartEnjoyer_95: 2104838947729693702
+      MixedBerryTartEnjoyer_96: -5524587246752357087
+      MixedBerryTartEnjoyer_97: 2866290222258430023
+      MixedBerryTartEnjoyer_98: -4792232268184948491
+      MixedBerryTartEnjoyer_99: 1336499709626376051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
