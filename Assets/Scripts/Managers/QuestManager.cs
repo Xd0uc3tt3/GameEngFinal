@@ -14,18 +14,32 @@ public class QuestManager : MonoBehaviour
 
     public List<Quest> quests = new List<Quest>();
 
-    public int activeQuestIndex = 0;
+    public int activeQuestIndex = -1;
 
     public Quest ActiveQuest => (activeQuestIndex >= 0 && activeQuestIndex < quests.Count) ? quests[activeQuestIndex] : null;
 
-    public void StartQuest(int index)
+    public bool StartQuest(int index)
     {
+        if (HasActiveQuest())
+        {
+            return false;
+        }
+
         var quest = GetQuest(index);
         if (quest != null && quest.currentState == QuestState.NotStarted)
         {
             activeQuestIndex = index;
             quest.currentState = QuestState.InProgress;
+            return true;
         }
+
+        return false;
+    }
+
+    public bool HasActiveQuest()
+    {
+        var quest = ActiveQuest;
+        return quest != null && quest.currentState != QuestState.Completed && quest.currentState != QuestState.NotStarted;
     }
 
     public void CheckIfCraftable(int index)
@@ -76,10 +90,6 @@ public class QuestManager : MonoBehaviour
         var quest = GetQuest(index);
         if (quest == null) return;
         quest.currentState = QuestState.Completed;
-        if (index == activeQuestIndex)
-        {
-            activeQuestIndex++;
-        }
     }
 
     public void UpdateQuestProgress()

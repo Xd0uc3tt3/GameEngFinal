@@ -7,6 +7,7 @@ public class InteractableNPC1 : MonoBehaviour, IInteractable
     [SerializeField] private string[] craftableDialogue = { "Use the oven to bake it." };
     [SerializeField] private string[] completedDialogue = { "Thank you!" };
     [SerializeField] private string[] questCompleteDialogue = { "Quest Complete!" };
+    [SerializeField] private string[] busyDialogue = {"I'll wait till you're done your current order."};
 
     [SerializeField] private int questIndex;
 
@@ -31,6 +32,11 @@ public class InteractableNPC1 : MonoBehaviour, IInteractable
             switch (quest.currentState)
             {
                 case QuestManager.QuestState.NotStarted:
+                    if (questManager.HasActiveQuest() && questManager.activeQuestIndex != questIndex)
+                    {
+                        linesToShow = busyDialogue;
+                        break;
+                    }
                     questManager.StartQuest(questIndex);
                     linesToShow = notStartedDialogue;
                     break;
@@ -42,6 +48,7 @@ public class InteractableNPC1 : MonoBehaviour, IInteractable
                     break;
                 case QuestManager.QuestState.Crafted:
                     linesToShow = completedDialogue;
+                    questManager.CompleteQuest(questIndex);
                     break;
                 case QuestManager.QuestState.Completed:
                     linesToShow = questCompleteDialogue;
